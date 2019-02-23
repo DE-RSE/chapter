@@ -4,16 +4,22 @@ Regionale und Lokale Gruppen unter dem Dach von de-RSE
 
 ## Chapter
 
-| **Ort** | **Links/Infos** | **Ansprechperson** |
-| ------ | ------ |
-| München | ... | [Heidi Seibold](https://www.osc.uni-muenchen.de/members/individual-members/seibold1/index.html) |
-| Münster | https://epad.ifgi.de/p/ms-rse | [Daniel Nüst](https://nuest.staff.ifgi.de/) |
-| ------ | ------ |
+**Ort**, Links/Infos, **Ansprechperson**
 
+### München
+
+- [Mailingliste](https://lists.lrz.de/mailman/listinfo/rse)
+- Kontakt: [Heidi Seibold](https://www.osc.uni-muenchen.de/members/individual-members/seibold1/index.html)
+
+### Münster
+
+- [Mailingliste](https://listserv.uni-muenster.de/mailman/listinfo/ms-rse) 
+- https://epad.ifgi.de/p/ms-rse 
+- Kontakt: [Daniel Nüst](https://nuest.staff.ifgi.de/)
 
 ## Material
 
-- Blogpost über München und Münster
+- Blogpost über München und Münster: TBA
 
 ## Aktivitäten
 
