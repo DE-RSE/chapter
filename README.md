@@ -9,13 +9,13 @@ Regionale und Lokale Gruppen unter dem Dach von de-RSE
 ### München
 
 - [Mailingliste](https://lists.lrz.de/mailman/listinfo/rse)
-- Kontakt: [Heidi Seibold](https://www.osc.uni-muenchen.de/members/individual-members/seibold1/index.html)
+- Kontakt: [Heidi Seibold](https://www.osc.uni-muenchen.de/members/individual-members/seibold1/index.html), [Bernd Bischl](http://www.compstat.statistik.uni-muenchen.de/people/bischl/), [Tobias Weber](https://tobias.weber.userweb.mwn.de)
 
 ### Münster
 
 - [Mailingliste](https://listserv.uni-muenster.de/mailman/listinfo/ms-rse) 
 - https://epad.ifgi.de/p/ms-rse 
-- Kontakt: [Daniel Nüst](https://nuest.staff.ifgi.de/)
+- Kontakt: [Daniel Nüst](https://nuest.staff.ifgi.de/), [Stephan Rave](https://www.uni-muenster.de/AMM/ohlberger/team/stephan_rave.shtml) 
 
 ## Material
 
