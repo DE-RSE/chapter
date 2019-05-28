@@ -24,7 +24,7 @@ Regionale und Lokale Gruppen unter dem Dach von de-RSE
 ## Aktivitäten
 
 - Diskussion und Ideen: https://github.com/DE-RSE/chapter/issues/1
-- [BoF @ deRSE 2010](https://github.com/DE-RSE/chapter/issues/2)
+- [BoF @ deRSE 2019](https://github.com/DE-RSE/chapter/issues/2)
 
 ## Kontakt
 
