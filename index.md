@@ -5,9 +5,9 @@ title: RSE Chapter in Deutschland
 
 _Regionale und Lokale Gruppen, "chapters", unter dem Dach von [de-RSE](https://www.de-rse.org/)._
 
-- [München](/muc)
-- [Münster](/ms)
-- [Berlin/Brandenburg](/berserc)
+- [München](./muc)
+- [Münster](./ms)
+- [Berlin/Brandenburg](./berserc)
 
 ------
 
@@ -23,6 +23,7 @@ Ein formaler Prozess existiert derzeit nicht.
   1. Einen Unterordner mit dem Chapternamen anlegen (z.B. das Stadtkürzel) und darin eine Datei `index.md` mit mindestens den folgenden Informationen anlegen:
     - Ort/Region
     - Kontaktperson
+  1. Einen Listeneintrag in der `/index.md` hinzufügen
   1. Pull request öffnen
   1. Mit der neuen URL auf der Mailingliste und im Chat Werbung machen - fertig!
 - **Chapter-Webseite**

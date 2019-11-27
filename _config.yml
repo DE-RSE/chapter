@@ -1,5 +1,5 @@
 # Note: If you want to deploy to a GitHub user site (user.github.io), change baseurl to /
-baseurl: 
+baseurl: /chapter/
 title: de-RSE chapters
 name: de-RSE chapters
 author: Daniel Nüst
