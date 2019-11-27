@@ -1,0 +1,11 @@
+# Note: If you want to deploy to a GitHub user site (user.github.io), change baseurl to /
+baseurl: 
+title: de-RSE chapters
+name: de-RSE chapters
+author: Daniel Nüst
+email: daniel.nuest@uni-muenster.de
+description: de-RSE Chapters - de-RSE e.V.
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+timezone: Europe/Berlin
+excerpt_separator: <!--more-->
