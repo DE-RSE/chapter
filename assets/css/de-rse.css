@@ -33,14 +33,6 @@ tr:nth-child(even) {background-color: #f2f2f2;}
     padding-top: 0px;
 }
 
-#rse-img {
-  position: fixed;
-  left: 0px;
-  top: 35px;
-  width: 160px;
-  z-index: 1031;
-}
-
 .navbar-default .navbar-nav li a {
   color: #97316e;
   font-weight: bolder;
@@ -85,10 +77,6 @@ html, body {
 
 .footer a {
     color: #777;
-}
-
-.leaflet-popup-content {
-    height: 12em;
 }
 
 blockquote {
