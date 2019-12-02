@@ -1,7 +1,13 @@
 ---
 layout: default
-title: Münchener RSE Community
+title: Münchner RSE Community
 ---
+
+Wir organisieren uns hauptsächlich über die
+[Mailingliste](https://lists.lrz.de/mailman/listinfo/rse).  Alle sind herzlich
+eingeladen über Events, Stellenausschreibungen, Ideen oder anderes zu
+berichten/diskutieren.
+
 
 - [Blog post](https://www.de-rse.org/blog/2019/02/26/neue-rse-gruppen-in-m%C3%BCnchen-und-m%C3%BCnster.html)
 - [Mailingliste](https://lists.lrz.de/mailman/listinfo/rse)
