@@ -15,6 +15,12 @@ Auf der Chapter-Webseite findest du [Material]() und eine [Liste]() der existier
 - https://epad.ifgi.de/p/ms-rse 
 - Kontakt: [Daniel Nüst](https://nuest.staff.ifgi.de/), [Stephan Rave](https://www.uni-muenster.de/AMM/ohlberger/team/stephan_rave.shtml) 
 
+### Berlin/Brandenburg (*beRSErc*)
+
+- [Chat (GWDG Rocket.Chat)](https://chat.gwdg.de/channel/derse_berlin_brandenburg)
+- https://bit.ly/berserc-index
+- Kontakt: [Stephan Druskat](https://sdruskat.net)
+
 ## Material
 
 - Blogpost über München und Münster: https://www.de-rse.org/blog/2019/02/26/neue-rse-gruppen-in-m%C3%BCnchen-und-m%C3%BCnster.html
