@@ -1,0 +1,29 @@
+de-RSE:
+  name        : "de-RSE e.V."
+  bio         : "Gesellschaft für Forschungssoftware"
+  avatar      : "/assets/images/rse.pngg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:vorstand@de-rse.org"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/RSE_de"
+
+nuest:
+  name        : "Daniel Nüst"
+  bio         : "Stellv. Vorsitzender und Chapter-Beauftragter"
+  avatar      : "http://nuest.staff.ifgi.de/Nuest_Daniel_small.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:d.n@wwu.de"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://nordholmen.net"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/nordholmen"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nuest"

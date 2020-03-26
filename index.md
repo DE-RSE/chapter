@@ -1,9 +1,44 @@
 ---
-layout: default
-title: RSE Chapter in Deutschland
+title: RSE Chapters in Deutschland
+author: de-RSE
+author_profile: false
+layout: splash
+permalink: /
+header:
+  overlay_color: "rgb(151,49,110)"
+  overlay_image: https://sdruskat.net/de-rse-www-2019/assets/images/splash-background.png
+  #actions:
+  #  - label: "Become a member <i class='fas fa-user-check'></i>"
+  #    url: "/docs/quick-start-guide/"
+excerpt: >
+  Lokales Netzwerk = bessere Software = bessere Forschung
+feature_row:
+  - image_path: /assets/images/rocket-ship-blast-off.jpg # https://publicdomainpictures.net/en/view-image.php?image=184072&picture=rocket-ship-blast-off
+    alt: "Gründen"
+    title: "Gründen"
+    excerpt: "Starte ein de-RSE Chapter in deiner Stadt und vernetze Dich mit anderen Softwareentwicklern in der Wissenschaft."
+    url: "/start/"
+    btn_class: "btn--primary"
+    btn_label: "Jetzt gründen"
+  - image_path: /assets/images/new-ideas.jpg # https://publicdomainpictures.net/en/view-image.php?image=260883&picture=new-ideas
+    alt: "Material"
+    title: "Material"
+    excerpt: "Finde Material und Ideen für das erste oder nächste Chaptertreffen."
+    url: "/material/"
+    btn_class: "btn--primary"
+    btn_label: "Los geht's"
+  #- image_path: /assets/images/nfdi4rse.png
+  #  alt: "NFDI4RSE"
+  #  title: "NFDI4RSE"
+  #  excerpt: "National Research Data Infrastructure (NFDI) consortium for research software, led by the de-RSE community."
+  #  url: "http://rse4nfdi.de"
+  #  btn_class: "btn--primary"
+  #  btn_label: "Go to website"      
 ---
 
-_Regionale und Lokale Gruppen, "chapters", unter dem Dach von [de-RSE](https://www.de-rse.org/)._
+"Chapters" sind lokale und regionale Gruppen von RSEs unter dem Dach von [de-RSE e.V.](https://www.de-rse.org/).
+
+Aktuelle Chapters in Deutschland:
 
 - [Berlin/Brandenburg](./berserc)
 - [Jena](./jeRSE)
@@ -12,26 +47,4 @@ _Regionale und Lokale Gruppen, "chapters", unter dem Dach von [de-RSE](https://w
 
 ------
 
-## Chapter gründen
-
-_Gute Entscheidung!_ Die Community wird stärker wenn sie wächst.
-
-Wenn Du ein Chapter bei dir in der Stadt oder der Region starten willst, findest du hier die möglichen Schritte.
-Ein formaler Prozess existiert derzeit nicht.
-
-- **Chapter in die Liste eintragen**
-  1. Das [chapter repository](https://github.com/DE-RSE/chapter) forken.
-  1. Einen Unterordner mit dem Chapternamen anlegen (z.B. das Stadtkürzel) und darin eine Datei `index.md` mit mindestens den folgenden Informationen anlegen:
-    - Ort/Region
-    - Kontaktperson
-  1. Einen Listeneintrag in der `/index.md` hinzufügen
-  1. Pull request öffnen
-  1. Mit der neuen URL auf der Mailingliste und im Chat Werbung machen - fertig!
-- **Chapter-Webseite**
-  Jedes Chapter ist eingeladen eine eigene Webseite über dieses repository zu verwalten, aber es ist auch vollkommen in Ordnung wenn ihr euch anders Online organisieren möchtet.
-  Über die oben aufgeführten Mindestanforderungen hinaus ist es sinnvoll folgende Informationen zur Verfügung zu stellen:
-    - Ort und Uhrzeit regelmäßiger Treffen
-    - Links zu externen Dokumente oder Webseiten, z.B. zum Inhalt, zur Terminplanung, etc.
-    - Eurer Logo! 
-
-Wende Dich gerne an Daniel Nüst (daniel.nuest@uni-muenster.de, [chapter chat](https://chat.gwdg.de/channel/derse_chapter)) wenn du Fragen hast!
+{% include feature_row %}

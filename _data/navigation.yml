@@ -1,0 +1,9 @@
+main:
+  - title: "Chapters"
+    url: /
+  - title: "Gründen"
+    url: /start/
+  - title: "Material"
+    url: /material/
+  - title: "de-RSE e.V."
+    url: https://de-rse.org
