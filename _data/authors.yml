@@ -13,7 +13,7 @@ de-RSE:
 nuest:
   name        : "Daniel Nüst"
   bio         : "Stellv. Vorsitzender und Chapter-Beauftragter"
-  avatar      : "http://nuest.staff.ifgi.de/Nuest_Daniel_small.jpg"
+  avatar      : "https://nuest.staff.ifgi.de/Nuest_Daniel_small.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
