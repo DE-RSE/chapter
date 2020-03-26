@@ -5,8 +5,24 @@ permalink: /jeRSE/
 layout: single
 ---
 
-**Website**: [https://de-rse.org/jeRSE/](https://de-rse.org/jeRSE/)
+**Contact**: [Frank Löffler](https://fusion.cs.uni-jena.de/fusion/members/frank-loffler/)
 
-Contact:
-  - Frank Löffler
-  
+Welcome to the website for the **je**na **RSE** regional chapter, the - you guessed it - regional chapter of [de-RSE](https://de-rse.org) in and around Jena.
+_jeRSE is an open group of people from the area who care about research software._
+
+## Next meeting
+
+TBA
+
+## Previous meetings
+
+### 2020-03-16
+
+#### Topic
+
+- *Data Management for theses* (both Masters and PhD)
+
+##### Speakers
+
+- *Christoph Rzymski* (Max Planck Institute for the Science of Human History)
+- *Frank Löffler* (Friedrich Schiller University Jena)
