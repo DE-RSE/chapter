@@ -13,7 +13,7 @@ Du willst ein Chapter starten?
 _Gute Entscheidung!_
 Die Community wird stärker wenn sie wächst.
 
-Wenn Du ein Chapter bei dir in der Stadt oder der Region starten willst, findest du hier die möglichen Schritte.
+Wenn Du ein Chapter bei dir in der Stadt oder der Region starten willst, findest Du hier die möglichen Schritte.
 _Ein formaler Prozess existiert derzeit nicht, es gibt nur die folgende Anforderung_: es muss eine persönliche Kontaktadresse geben, die in unregelmäßigen Abständen angefragt werden kann, ob das Chapter sich noch trifft.
 Eine Vereinsmitgliedschaft ist nicht notwendig, aber wir freuen uns natürlich wenn Ihr die Community auch auf diesem Wege unterstützen wollt.
 
@@ -50,7 +50,7 @@ Ihr seid auch frei in der _Sprache_ in der Ihr die Seite gestaltet - Deutsch/Eng
 
 ### 3. Das erste Treffen
 
-Mögliche Inhalte für das erste Chaptertreffen findest du auf der [Material-Seite](/chapter/material/).
+Mögliche Inhalte für das erste Chaptertreffen findest Du auf der [Material-Seite](/chapter/material/).
 
 ## Logo
 
