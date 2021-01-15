@@ -40,6 +40,7 @@ feature_row:
 
 Aktuelle Chapters in Deutschland:
 
+- [Aachen](./ac)
 - [Berlin/Brandenburg](./berserc)
 - [Jena](./jeRSE)
 - [München](./muc)
