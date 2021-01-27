@@ -13,3 +13,6 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
 end
+
+# For local access for customisation
+gem "minimal-mistakes-jekyll", "~> 4.19"

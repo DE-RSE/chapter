@@ -13,6 +13,7 @@ timezone: Europe/Berlin
 
 remote_theme: mmistakes/minimal-mistakes@4.19.1
 baseurl: /chapter
+repository: DE-RSE/chapter
 
 include:
   - _pages
