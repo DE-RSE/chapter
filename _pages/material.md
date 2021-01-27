@@ -16,6 +16,7 @@ Vom Stammtisch über wissenschaftliches Seminar bis zum Hackathon ist alles mög
 
 **Die große Herausforderung ist nicht das Starten (einfach mal machen!) sondern das Verstetigen.
 Hier sind ein paar Ideen die dabei helfen können.
+
 ### Formate
 
 _Folgende Programmpunkte lassen sich auch gut kombinieren für routinierte aber abwechslungsreiche Treffen._
@@ -87,9 +88,18 @@ _Warum machen Leute mit?_
 - Fachübergreifender **Austausch** mit gemeinsamen/ähnlichen Problemen bringen individuellen Mehrwert > **Problemlösungen** für alltägliche/praktische Herausforderungen
 - Organisatorisch/Politischer Ansatz (**Anerkennung**, …); eher zweiter Schritt bei stabiler Gruppe
 
-## Erfahrungsberichte
+## Erfahrungsberichte RSE Communities
 
 - [Blogpost über erste Treffen in München und Münster](https://www.de-rse.org/blog/2019/02/26/neue-rse-gruppen-in-m%C3%BCnchen-und-m%C3%BCnster.html)
+
+## Community Management
+
+Es lohnt sich, beim Start eines Chapters ein wenig drüber nachzudenken, wohin es gehen soll und wer dabei sein soll.
+Insbesondere, um am Anfang nicht "auszubrennen" und zu wissen, dass eine Community aufbauen Mühe und Zeit kostet, und manche Schritte eben erst später sinnvoll gegangen werden können.
+Die folgenden Webseiten liefern Hilfe und Material zum bewussten Aufbau einer Community:
+
+- [Open Science Community Starter Kit](https://inosc-starter-kit.netlify.app/)
+- [Center for Scientific Collaboration and Community Engagement (CSCCE)](https://www.cscce.org/)
 
 ------
 
