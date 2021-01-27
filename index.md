@@ -19,7 +19,7 @@ feature_row:
     excerpt: "Starte ein de-RSE Chapter in deiner Stadt und vernetze Dich mit anderen Softwareentwicklern in der Wissenschaft."
     url: "/start/"
     btn_class: "btn--primary"
-    btn_label: "Jetzt gründen"
+    btn_label: "Jetzt gründen!"
   - image_path: /assets/images/new-ideas.jpg # https://publicdomainpictures.net/en/view-image.php?image=260883&picture=new-ideas
     alt: "Material"
     title: "Material"
@@ -27,6 +27,14 @@ feature_row:
     url: "/material/"
     btn_class: "btn--primary"
     btn_label: "Los geht's"
+    btn_label: "Interessant!"
+  - image_path: /assets/images/infrastructure.jpg # https://pixabay.com/illustrations/web-domain-service-website-3967926/
+    alt: "Infrastruktur"
+    title: "Infrastruktur"
+    excerpt: "Platformen und Wege zur Zusammenarbeit und Kommunikation."
+    url: "/infrastruktur/"
+    btn_class: "btn--primary"
+    btn_label: "Zusammen ist besser!"    
   #- image_path: /assets/images/nfdi4rse.png
   #  alt: "NFDI4RSE"
   #  title: "NFDI4RSE"
@@ -36,7 +44,7 @@ feature_row:
   #  btn_label: "Go to website"      
 ---
 
-"Chapters" sind lokale und regionale Gruppen von RSEs unter dem Dach von [de-RSE e.V.](https://www.de-rse.org/).
+"Chapters" sind lokale, regionale, oder institutionspezifische Gruppen von RSEs unter dem Dach von [de-RSE e.V.](https://www.de-rse.org/).
 
 Aktuelle Chapters in Deutschland:
 
@@ -49,3 +57,5 @@ Aktuelle Chapters in Deutschland:
 ------
 
 {% include feature_row %}
+
+_Looking for information in English?_ Please reach out to [Daniel](mailto:daniel.nuest@uni-muenster.de) directly.

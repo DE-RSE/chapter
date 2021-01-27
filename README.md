@@ -24,3 +24,7 @@ To include drafts in the preview add the `--drafts` flag.
 
 The used theme is [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) - see the docs for all customisation options.
 To find local copies of the template files within the `gem`, run `bundle info minimal-mistakes-jekyll`.
+
+Sources for images on start page:
+
+- [https://www.publicdomainpictures.net](https://www.publicdomainpictures.net)
