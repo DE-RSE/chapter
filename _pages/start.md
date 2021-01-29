@@ -70,6 +70,6 @@ Wenn ihr größere Events auf die Beine stellt oder besondere Meilensteine errei
 
 ## Logo
 
-Im [Ordner `assets/images/` des repositories](https://github.com/DE-RSE/chapter/tree/master/assets/img/site) findet ihr eine SVG-Datei mit dem Chapter-Logo.
+Im [Ordner `assets/images/` des repositories](https://github.com/DE-RSE/chapter/tree/master/assets/images) findet ihr eine SVG-Datei mit dem Chapter-Logo.
 Dieses könnt Ihr gut anpassen und "Chapter" durch ein Kürzel für Eure Region oder Stadt ersetzen, siehe zum Beispiel [ms-rse](ms/) oder [beRSErc](berserc/).
 Bitte beachtet dabei die [Richtlinien für das de-RSE Logo](https://github.com/DE-RSE/logo-association).
