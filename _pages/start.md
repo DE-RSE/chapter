@@ -53,14 +53,14 @@ Falls nötig, und das ist der Grund warum es ein extra repository für die Chapt
 Wenn ihr Bilder oder Dateien einbauen möchtet, dann bitte einen Ordner mit Eurem Chapter-Kürzel in `assets/images` erstellen, zum Beispiel `assets/images/muc/`.
 Die [Dokumentation des genutzten Themes "Minimal Mistakes"](https://mmistakes.github.io/minimal-mistakes/) liefert euch alles Nötige um eine ansprechende Gestaltung der Seite sicherzustellen.
 
-Es ist auch vollkommen in Ordnung wenn Ihr Euch anders online organisieren möchtet und auf der Chapterseite ein Verweils zu einem Kalender oder einer externen Webseite steht.
+Es ist auch vollkommen in Ordnung wenn Ihr Euch anders online organisieren möchtet und auf der Chapterseite ein Verweis zu einem Kalender oder einer externen Webseite steht.
 Ihr seid auch frei in der _Sprache_ in der Ihr die Seite gestaltet - Deutsch/Englisch/beides, was am besten zu Eurer Community passt.
 
 ### 3. Das erste Treffen
 
 Mögliche Formate und Inhalte für das erste Chaptertreffen sowie Wege um Teilnehmer zu erreichen findest Du auf der [Material-Seite](/chapter/material/).
 
-Der Verein unterstützt dich gerne bei der Organisation! Schau' Dir das [Starterpaket](/chapter/package) an.
+Der Verein unterstützt dich gerne bei der Organisation! Schau Dir das [Starterpaket](/chapter/package) an.
 
 ### 4. Kontakt halten und kommunizieren
 
@@ -70,6 +70,6 @@ Wenn ihr größere Events auf die Beine stellt oder besondere Meilensteine errei
 
 ## Logo
 
-Im [Ordner `assets/images/` des repositories](https://github.com/DE-RSE/chapter/tree/master/assets/img/site) findet ihr eine SVG-Datei mit dem Chapter-Logo.
+Im [Ordner `assets/images/` des repositories](https://github.com/DE-RSE/chapter/tree/master/assets/images) findet ihr eine SVG-Datei mit dem Chapter-Logo.
 Dieses könnt Ihr gut anpassen und "Chapter" durch ein Kürzel für Eure Region oder Stadt ersetzen, siehe zum Beispiel [ms-rse](ms/) oder [beRSErc](berserc/).
 Bitte beachtet dabei die [Richtlinien für das de-RSE Logo](https://github.com/DE-RSE/logo-association).
