@@ -100,6 +100,7 @@ Die folgenden Webseiten liefern Hilfe und Material zum bewussten Aufbau einer Co
 
 - [Open Science Community Starter Kit](https://inosc-starter-kit.netlify.app/)
 - [Center for Scientific Collaboration and Community Engagement (CSCCE)](https://www.cscce.org/)
+  - Woodley, Lou, Pratt, Katie, Sanström, Malin, Wood-Charlson, Elisha, Davison, Jennifer, & Leidolf, Andreas. (2021, January 13). **The CSCCE Skills Wheel – Five core competencies and 45 skills to describe the role of the community engagement manager in STEM**. Zenodo. [http://doi.org/10.5281/zenodo.4437294](http://doi.org/10.5281/zenodo.4437294)
 
 ------
 
