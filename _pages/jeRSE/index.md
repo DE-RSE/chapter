@@ -12,11 +12,11 @@ _jeRSE is an open group of people from the area who care about research software
 
 ## Next meeting
 
-TBA
+TBA (2021 - as soon as we can meet physically again!)
 
 ## Previous meetings
 
-### 2020-03-16
+### 2020-03-16 (canceled due to Covid 19)
 
 #### Topic
 
