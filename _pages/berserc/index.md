@@ -25,7 +25,7 @@ We're aiming at meeting regularly (monthly/bi-monthly frequency) in different lo
 
 ## Past meetings
 
-- 2019-11-06, Berlin, Onionspace
+- 2019-11-06, Berlin, _Onionspace_, talks by Carina Haupt (DLR) on "Research Software Engineering Guidelines at the Geman Aerospace Center" and Maximilian Dolling (GFZ) on "Software Engineering Guidelines at GFZ"
 - 2019-12-11, Berlin, Excellence Cluster _Matters of Activity_
 - 2020-02-25, Berlin, German Aerospace Center (DLR)
 
