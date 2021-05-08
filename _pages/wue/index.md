@@ -6,6 +6,8 @@ permalink: /wue/
 layout: single
 toc: true
 ---
+
+![](wuerse.svg)
 # Welcome to Wue-RSE!
 
 Welcome to the web page of the Würzburg Chapter of DE-RSE!
