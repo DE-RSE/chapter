@@ -70,7 +70,16 @@ Also see our official
 [description](https://www.konwihr.de/konwihr-projects/basis-project-university-of-wurzburg/).
 
 
-### Data Management
+### Data Management in ct.qmat
 We are currently working on setting up collaborative data management solutions for the cluster of 
 excellence [ct.qmat](https://www.ctqmat.de). If you want to participate in our experiences,
 get [in touch](https://www.ctqmat.de/en/research/data-management)!
+
+### Data Management at the university of Würzburg
+Do you have questions how to organize your data?
+Does a funder require you to have a data management plan or do you require 
+feedback for your proposal related to data management?
+Are their ethical questions with regard to storing your data?
+These questions and a lot more can be answered by the
+university's [research data management department](https://www.uni-wuerzburg.de/rdm/startseite/).
+
