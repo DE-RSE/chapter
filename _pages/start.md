@@ -23,9 +23,9 @@ _Ein formaler Prozess existiert derzeit nicht, es gibt nur die folgende Anforder
 
 1. es muss eine persönliche Kontaktadresse geben, die in unregelmäßigen Abständen angefragt werden kann, ob das Chapter sich noch trifft.
 
-Eine [Vereinsmitgliedschaft bei de-RSE e.V.](https://de-rse.org/de/association.html) ist nicht notwendig, aber wir freuen uns natürlich wenn Ihr die Community auch auf diesem Wege unterstützen wollt.
+Eine [Vereinsmitgliedschaft bei de-RSE e.V.](https://de-rse.org/de/association.html) ist nicht notwendig, aber wir freuen uns natürlich, wenn Ihr die Community auch auf diesem Wege unterstützen wollt.
 
-Wende Dich gerne an Daniel Nüst ([mailto:daniel.nuest@uni-muenster.de](daniel.nuest@uni-muenster.de)) oder komm in den [Chapter Chatraum](https://chat.gwdg.de/channel/derse_chapter) wenn Du Fragen hast!
+Wende Dich gerne an Daniel Nüst ([mailto:daniel.nuest@uni-muenster.de](daniel.nuest@uni-muenster.de)) oder komm in den [Chapter Chatraum](https://chat.gwdg.de/channel/derse_chapter), wenn Du Fragen hast!
 
 ### 1. Chapter auf der Webseite eintragen
 
@@ -40,31 +40,31 @@ Wende Dich gerne an Daniel Nüst ([mailto:daniel.nuest@uni-muenster.de](daniel.n
 
 ### 2. Chapter-Webseite füllen
 
-Jedes Chapter ist eingeladen eine eigene Webseite über dieses repository zu verwalten.
-Sendet gerne regelmäßig pull requests mit aktuellen Updates und zögert nicht Daniel (s.o.) anzupingen wenn diese nicht schnell genug gemerged werden.
-Falls nötig, und das ist der Grund warum es ein extra repository für die Chapter-Webseiten gibt, bekommt ihr auch Schreibrechte.
+Jedes Chapter ist eingeladen, eine eigene Webseite über dieses repository zu verwalten.
+Sendet gerne regelmäßig pull requests mit aktuellen Updates und zögert nicht, Daniel (s.o.) anzupingen, wenn diese nicht schnell genug gemerged werden.
+Falls nötig, und das ist der Grund, warum es ein extra repository für die Chapter-Webseiten gibt, bekommt ihr auch Schreibrechte.
 
-Über die oben aufgeführten Mindestanforderungen hinaus ist es sinnvoll folgende Informationen zur Verfügung zu stellen:
+Über die oben aufgeführten Mindestanforderungen hinaus ist es sinnvoll, folgende Informationen zur Verfügung zu stellen:
 
 - Ort und Uhrzeit regelmäßiger Treffen
 - Links zu externen Dokumente oder Webseiten, z.B. zum Inhalt, zur Terminplanung, etc.
 - Eurer [Logo](#logo)!
 
 Wenn ihr Bilder oder Dateien einbauen möchtet, dann bitte einen Ordner mit Eurem Chapter-Kürzel in `assets/images` erstellen, zum Beispiel `assets/images/muc/`.
-Die [Dokumentation des genutzten Themes "Minimal Mistakes"](https://mmistakes.github.io/minimal-mistakes/) liefert euch alles Nötige um eine ansprechende Gestaltung der Seite sicherzustellen.
+Die [Dokumentation des genutzten Themes "Minimal Mistakes"](https://mmistakes.github.io/minimal-mistakes/) liefert euch alles Nötige, um eine ansprechende Gestaltung der Seite sicherzustellen.
 
-Es ist auch vollkommen in Ordnung wenn Ihr Euch anders online organisieren möchtet und auf der Chapterseite ein Verweis zu einem Kalender oder einer externen Webseite steht.
-Ihr seid auch frei in der _Sprache_ in der Ihr die Seite gestaltet - Deutsch/Englisch/beides, was am besten zu Eurer Community passt.
+Es ist auch vollkommen in Ordnung, wenn Ihr Euch anders online organisieren möchtet und auf der Chapterseite ein Verweis zu einem Kalender oder einer externen Webseite steht.
+Ihr seid auch frei in der _Sprache_, in der Ihr die Seite gestaltet - Deutsch/Englisch/beides, was am besten zu Eurer Community passt.
 
 ### 3. Das erste Treffen
 
-Mögliche Formate und Inhalte für das erste Chaptertreffen sowie Wege um Teilnehmer zu erreichen findest Du auf der [Material-Seite](/chapter/material/).
+Mögliche Formate und Inhalte für das erste Chaptertreffen sowie Wege, um Teilnehmer zu erreichen, findest Du auf der [Material-Seite](/chapter/material/).
 
 Der Verein unterstützt dich gerne bei der Organisation! Schau Dir das [Starterpaket](/chapter/package) an.
 
 ### 4. Kontakt halten und kommunizieren
 
-Werkzeuge um innerhalb des Chapters zu kommunizieren und gemeinsam das Chapter mit leben zu erfüllen sind auf der [Infrastruktur-Seite](/chapter/infrastruktur/) gesammelt.
+Werkzeuge, um innerhalb des Chapters zu kommunizieren und gemeinsam das Chapter mit leben zu erfüllen, sind auf der [Infrastruktur-Seite](/chapter/infrastruktur/) gesammelt.
 
 Wenn ihr größere Events auf die Beine stellt oder besondere Meilensteine erreicht, verkündet diese auch gerne [im de-RSE Chat oder auf der de-RSE Mailingliste](https://de-rse.org/de/join.html).
 
