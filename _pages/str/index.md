@@ -15,13 +15,13 @@ _RSE Community at University of Stuttgart_
 
 We plan to organize a first regulars' table soon. More information will follow.
 
-**Mailingliste**: will come soon
+**Mailing list**: will come soon
 
-**Organisation:** 
-  - [Kompetenzzentrum für Forschungsdaten](https://www.izus.uni-stuttgart.de/fokus/)
-  - [EXC 2075 Data-Integrated Simulation Science (SimTech)](https://www.simtech.uni-stuttgart.de/
+**Organization:** 
+  - [Competence Center for Research Data Management](https://www.izus.uni-stuttgart.de/fokus/)
+  - [EXC 2075 Data-Integrated Simulation Science (SimTech)](https://www.simtech.uni-stuttgart.de/)
   - [SIGDIUS (Special Interest Group Data Infrastructure) Seminar](https://www.simtech.uni-stuttgart.de/events/workshops/sigdius-seminars/)
   - RSE page will come soon
 
-**Kontakt**
+**Contact**
   - [Benjamin Uekermann](https://www.ipvs.uni-stuttgart.de/departments/us3/)
