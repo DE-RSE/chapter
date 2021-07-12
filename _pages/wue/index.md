@@ -23,7 +23,9 @@ but people from any other part of the Franconias are welcome, too!
 
 We are excited to hear about you and your ideas!
 
-Discussion currently happens on our Discord channel, please contact us if you want to get an invite.
+Discussion currently happens on our Discord channel:
+Please click [this invite link](https://discord.gg/SAEYTUyS6T) to 
+get the invite to the discord server.
 
 **Contact**
 - [Florian Goth](https://www.physik.uni-wuerzburg.de/tp1/team/postdocs/dr-florian-goth/)
