@@ -85,3 +85,6 @@ Are their ethical questions with regard to storing your data?
 These questions and a lot more can be answered by the
 university's [research data management department](https://www.uni-wuerzburg.de/rdm/startseite/).
 
+### DataDojo
+Monthly meeting to do collaborative, hands-on data analytics training. We strive to be an open and inclusive community, everyone is welcome!
+Further information here: [DataDojo Würzburg](https://ddojo.github.io/)
