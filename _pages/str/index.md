@@ -7,21 +7,26 @@ layout: single
 logo: /assets/images/str/str-RSE-logo.svg
 ---
 
-_RSE Community at University of Stuttgart_
+_RSE Community in Stuttgart_
 
 ![]({{ "/assets/images/str/str-RSE-logo.svg" | prepend: site.baseurl }}){: height="100px"}
 
 [Slides about our vision](https://github.com/DE-RSE/projekte/files/6710388/stuttgart_rse.pdf)
 
-We plan to organize a first regulars' table soon. More information will follow.
+**Regular's table**
 
-**Mailing list**: will come soon
+Since November 3, 2021, we use the same days as the [SIGDIUS (Special Interest Group Data Infrastructure) Seminar](https://www.simtech.uni-stuttgart.de/events/workshops/sigdius-seminars/), to meet up for a small and informal regular's table. When COVID allows, we typically meet at [Unithekle](https://www.unithekle.de/) in the evening. Details are fixed during the seminar. Everybody interested in RSE is welcome to join.
 
-**Organization:** 
+**Mailing list** 
+
+[rse-stuttgart mailing list](https://listserv.uni-stuttgart.de/mailman/listinfo/rse-stuttgart)
+
+**Some participating organizations** 
+
   - [Competence Center for Research Data Management](https://www.izus.uni-stuttgart.de/fokus/)
   - [EXC 2075 Data-Integrated Simulation Science (SimTech)](https://www.simtech.uni-stuttgart.de/)
-  - [SIGDIUS (Special Interest Group Data Infrastructure) Seminar](https://www.simtech.uni-stuttgart.de/events/workshops/sigdius-seminars/)
-  - RSE page will come soon
+  - [EXC 2120 Integrative Computational Design and Construction for Architecture (IntCDC)](https://www.intcdc.uni-stuttgart.de/)
 
 **Contact**
+
   - [Benjamin Uekermann](https://www.ipvs.uni-stuttgart.de/departments/us3/)
