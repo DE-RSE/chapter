@@ -19,7 +19,7 @@ Since November 3, 2021, we use the same days as the [SIGDIUS (Special Interest G
 
 **Mailing list** 
 
-... will come soon
+[rse-stuttgart mailing list](https://listserv.uni-stuttgart.de/mailman/listinfo/rse-stuttgart)
 
 **Some participating organizations** 
 
