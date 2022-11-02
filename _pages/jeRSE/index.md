@@ -15,4 +15,5 @@ We plan to start each meeting with a 5 minute impulse introduction to a topic of
 
 ## Next meeting
 
-The next time this will be **2022-10-12 at 1pm**. We will start by introducing the topic "research software engineering" (RSE) and the association de-RSE e.V., as well as the host: the Hackspace Jena e.V.
+We will hold the next meeting on **2022-11-09 at 1pm**.
+The impulse topic: Writing plug-ins for LimeSurvey.
