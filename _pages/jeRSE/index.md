@@ -15,5 +15,5 @@ We start each meeting with a 5 minute impulse introduction to a topic of choice 
 
 ## Next meeting
 
-We will hold the next meeting on **2022-11-09 at 1pm**.
-The impulse topic: Writing plug-ins for LimeSurvey.
+We will hold the next meeting on **2022-12-14 at 1pm**.
+The impulse topic will be decided by 2022-11-18.
