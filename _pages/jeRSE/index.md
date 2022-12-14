@@ -15,4 +15,4 @@ We plan to start each meeting with a really short impulse introduction into a to
 
 ## Next meeting
 
-The next time this will be **2022-10-12 at 1pm**. We will start by introducing the topic "research software engineering" (RSE) and the association de-RSE e.V., as well as the host: the Hackspace Jena e.V.
+The next time this will be **2023-01-11 at 1pm**.
