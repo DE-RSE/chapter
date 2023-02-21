@@ -1,11 +1,13 @@
 ---
 title: HaRSE - RSE regional chapter for Hannover and beyond
-logo: test.png
+logo: harse.svg
 author_profile: false
 permalink: /harse/
 layout: single
 toc: true
 ---
+
+![](harse.svg)
 
 Welcome to the HaRSE homepage.
 HaRSE is an open collective for people interested in RSE topics and RSE enthusiasts.
