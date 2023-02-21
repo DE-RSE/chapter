@@ -7,6 +7,11 @@ layout: single
 toc: true
 ---
 
+Welcome to the HaRSE homepage.
+HaRSE is an open collective for people interested in RSE topics and RSE enthusiasts.
+Beginners and experts alike.
+
+Get in contact with us to know more and share your ideas
 
 **Chat**: [Chat (Element / matrix)](https://element.uni-hannover.de/#/room/#HaRSE:matrix.uni-hannover.de)
 
