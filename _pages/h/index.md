@@ -14,12 +14,12 @@ toc: true
 )
 
 **Contacts**: 
- - [Simon Christ]()
- - [Jan Phillip Thiele]()
+ - [Simon Christ](https://www.cell.uni-hannover.de/de/simon-christ)
+ - [Jan Phillip Thiele](https://www.ifam.uni-hannover.de/de/thiele)
 
 ## HaRSE Seminar
 
-Every first Monday every 3 Months starting with 01.05.2023
+Every first Monday every 3 Months starting with 01.05.2023, Herrenhäuser Str. 2 4160-101
 
 ## Next meeting
 
@@ -27,5 +27,6 @@ Every first Monday every 3 Months starting with 01.05.2023
 
 ## Past meetings
 
-- 
+- 05.12.2022, 19:00 Uhr, [Kuriosum](http://www.kuriosum.com/)
+- 01.11.2022, 19:00 Uhr, [Piccoli's Roadhouse](https://piccolis-roadhouse.de/home.html)
 
