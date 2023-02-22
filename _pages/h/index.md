@@ -26,7 +26,7 @@ Get in contact with us to know more and share your ideas
 
 ## HaRSE Seminar
 
-Every first Monday every 3 Months starting with 01.05.2023 14:00, Herrenhäuser Str. 2 4160-101
+Every first Tuesday every 3 Months starting with 02.05.2023 15:00, Herrenhäuser Str. 2 4160-101
 
 ## Next meeting
 
