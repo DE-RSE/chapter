@@ -17,10 +17,10 @@ Get in contact with us to know more and share your ideas
 
 **Chat**: [Chat (Element / matrix)](https://element.uni-hannover.de/#/room/#HaRSE:matrix.uni-hannover.de)
 
-**Mailing-List**: [Mailing list](https://listserv.uni-hannover.de/cgi-bin/wa?A0=RSE-HANNOVER-IFAM
-)
+**Mailing-List**: [Mailing list](https://listserv.uni-hannover.de/cgi-bin/wa?A0=RSE-HANNOVER-IFAM)
 
-**Contacts**: 
+**Contacts**:
+
  - [Simon Christ](https://www.cell.uni-hannover.de/de/simon-christ)
  - [Jan Phillip Thiele](https://www.ifam.uni-hannover.de/de/thiele)
 
