@@ -2,7 +2,7 @@
 title: HaRSE - RSE regional chapter for Hannover and beyond
 logo: harse.svg
 author_profile: false
-permalink: /harse/
+permalink: /h/
 layout: single
 toc: true
 ---
