@@ -22,7 +22,7 @@ Get in contact with us to know more and share your ideas
 **Contacts**:
 
  - [Simon Christ](https://www.cell.uni-hannover.de/de/simon-christ)
- - [Jan Phillip Thiele](https://www.ifam.uni-hannover.de/de/thiele)
+ - [Jan Philipp Thiele](https://www.ifam.uni-hannover.de/de/thiele)
 
 ## HaRSE Seminar
 
