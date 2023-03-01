@@ -51,7 +51,7 @@ Aktuelle Chapters in Deutschland:
 - [Aachen](./ac)
 - [Berlin/Brandenburg](./berserc)
 - [Braunschweig](./bs)
-- [Hannover/Niedersachsen](./h)
+- [Hannover/Niedersachsen](./harse)
 - [Jena](./jeRSE)
 - [München](./muc)
 - [Münster](./ms)
