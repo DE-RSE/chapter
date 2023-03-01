@@ -1,5 +1,5 @@
 ---
-title: SURESOFT - RSE Braunschweig
+title: RSE Braunschweig
 author_profile: false
 permalink: /bs/
 layout: single
@@ -7,7 +7,7 @@ toc: true
 ---
 
 ## Braunschweiger RSE Community
-Welcome! We are Research Software Engineers from Braunschweig. You are welcome to get in touch with us.  We would be happy to receive questions, discussions and, of course, participation.
+Welcome! We are Research Software Engineers from Braunschweig. You are welcome to get in touch with us. We would be happy to receive questions, discussions and, of course, participation. The meeting is currently mostly organized by people involved with the Suresoft project, but everyone else is invited to join as well.
 
 ## SURESOFT
 
