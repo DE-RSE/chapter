@@ -19,10 +19,10 @@ We offer:
 - in person code reviews
 - discussions and more ...
 
-![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fsuresoft.dev) 
+[![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fsuresoft.dev)](https://suresoft.dev)
 
 ## Get in Touch
-![Matrix](https://img.shields.io/matrix/suresoft-general:matrix.org)
+[![Matrix](https://img.shields.io/matrix/suresoft-general:matrix.org)](https://matrix.to/#/#suresoft-general:matrix.org)
 
 **Mailingliste**: [https://lists.tu-braunschweig.de/sympa/info/musen-rse](https://lists.tu-braunschweig.de/sympa/info/musen-rse) 
 
