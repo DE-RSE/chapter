@@ -30,7 +30,7 @@ Every first Tuesday every 3 Months starting with 02.05.2023 15:00, Herrenhäuser
 
 ## Next meeting
 
-- n/a
+- 22.03.2023, 18:30 Uhr, [Cheers](https://cheers-hannover.de/)
 
 ## Past meetings
 
