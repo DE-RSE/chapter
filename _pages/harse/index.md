@@ -33,10 +33,11 @@ Topics:
 
 ## Next meeting
 
-- 22.03.2023, 18:30 Uhr, [Cheers](https://cheers-hannover.de/)
+- 02.05.2023, 17:30 Uhr, [Piccoli's Roadhouse](https://piccolis-roadhouse.de/home.html)
 
 ## Past meetings
 
+- 22.03.2023, 18:30 Uhr, [Cheers](https://cheers-hannover.de/)
 - 05.12.2022, 19:00 Uhr, [Kuriosum](http://www.kuriosum.com/)
 - 01.11.2022, 19:00 Uhr, [Piccoli's Roadhouse](https://piccolis-roadhouse.de/home.html)
 
