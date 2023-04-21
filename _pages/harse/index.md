@@ -28,6 +28,9 @@ Get in contact with us to know more and share your ideas
 
 Every first Tuesday every 3 Months starting with 02.05.2023 15:00, Herrenhäuser Str. 2 4160-101
 
+Topics:
+- 02.05.2023 15:00, BinaryBuilder.jl -- How to distribute binaries using the tree of life
+
 ## Next meeting
 
 - 22.03.2023, 18:30 Uhr, [Cheers](https://cheers-hannover.de/)
