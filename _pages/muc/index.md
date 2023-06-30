@@ -23,7 +23,7 @@ After the talks/discussion, we will continue to a restaurant nearby. Join the [m
 ## Past activity
 
 - 2023-06-29: Second meeting in 2023, at LMU - [Meeting notes](https://pad.okfn.de/p/rse-mus-meetup2-23)
-  - Open discussion about [DataCite](https://datacite.org/) and ways to cite software, the [NFDI](https://www.nfdi.de/) initiative and the RSE working group, the [de-RSE Unconference](https://un-derse23.sciencesconf.org/), and the Digital Research Academy.
+  - Open discussion about [DataCite](https://datacite.org/) and ways to cite software, the [NFDI](https://www.nfdi.de/) initiative and the RSE working group, the [de-RSE Unconference](https://un-derse23.sciencesconf.org/), and the [Digital Research Academy](https://heidiseibold.ck.page/posts/feedback-wanted-building-a-digital-research-academy).
 - 2023-03-15: First meeting in 2023, at LMU - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup1-23)
   - Talk by Michael Franke: Software Management Plans
   - Talk by Gerasimos Chourdakis: [Continuous Integration with GitHub Actions in preCICE](http://go.tum.de/389945)
