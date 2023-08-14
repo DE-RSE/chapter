@@ -16,7 +16,7 @@ Our meetings include short talks about anything related to RSE (research data ma
 We plan two talks:
 
 - Raphael Ritz: NFDI Jupyter Hub
-- Benjamin Rodenberg: Code Ocean
+- ~~Benjamin Rodenberg: Code Ocean~~ (Cancelled due to conflict)
 
 After the talks/discussion, we will continue to a restaurant nearby. Join the [mailing list of our chapter](https://lists.lrz.de/mailman/listinfo/rse) to learn more.
 
