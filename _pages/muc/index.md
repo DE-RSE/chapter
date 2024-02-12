@@ -11,9 +11,7 @@ Our meetings include short talks about anything related to RSE (research data ma
 
 ## News
 
-**Next meeting:**
-
-February 22, 2024, 17:00-??? at MDPL.
+**Next meeting:** February 22, 2024, 17:00-??? at MDPL.
 
 Agenda:
 
