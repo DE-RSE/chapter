@@ -11,19 +11,22 @@ Our meetings include short talks about anything related to RSE (research data ma
 
 ## News
 
-**Next meeting:** December 14, 2023, 17:00-18:30 at the LMU University Library, [Room F324, Geschwister-Scholl-Platz 1](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=003003324_).
+**Next meeting:**
+
+February 22, 2024, 17:00-??? at MDPL.
 
 Agenda:
 
-- Talk by Hendrik Ballhausen: Privacy Preserving Computation – how to collaborate without sharing data
-- Talk by Michele Martone: The FIM (Fbi IMproved) image viewer and its development
+- Talk by ???
+- Talk by Benjamin Rodenberg (TUM): CodeOcean, Binder and Reproducible Python
 
-After the talks/discussion, we will continue to a Christmas market. Join the [mailing list of our chapter](https://lists.lrz.de/mailman/listinfo/rse) to learn more.
-
-[Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup4-23) - Add yourself if you are planning to participate.
+[Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup1-24) - Add yourself if you are planning to participate.
 
 ## Past activity
 
+- 2023-12-14: Fourth meeting in 2023, at LMU - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup4-23)
+   - Talk by Hendrik Ballhausen: Privacy Preserving Computation – how to collaborate without sharing data
+   - Talk by Michele Martone: The FIM (Fbi IMproved) image viewer and its development
 - 2023-10-12: Third meeting in 2023, at LMU - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup3-23)
    - Talk by Raphael Ritz: NFDI Jupyter Hub
    - Talk by Michele Martone: Brief Basic Introduction in Semantic Patching with Coccinelle
