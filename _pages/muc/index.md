@@ -11,11 +11,11 @@ Our meetings include short talks about anything related to RSE (research data ma
 
 ## News
 
-**Next meeting:** February 22, 2024, 17:00-??? at MDPL.
+**Next meeting:** February 22, 2024, 17:00-18:45 at the Max Planck Digital Library, Landsberger Straße 346.
 
 Agenda:
 
-- Talk by ???
+- Talk by Björn Brötz (DLR): An open-source electronic laboratory notebook
 - Talk by Benjamin Rodenberg (TUM): CodeOcean, Binder and Reproducible Python
 
 [Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup1-24) - Add yourself if you are planning to participate.
