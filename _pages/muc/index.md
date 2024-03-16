@@ -11,17 +11,22 @@ Our meetings include short talks about anything related to RSE (research data ma
 
 ## News
 
-**Next meeting:** February 22, 2024, 17:00-18:45 at the Max Planck Digital Library, Landsberger Straße 346.
+**Next meeting:** April 11, 2024, 17:00-18:45 at the LMU University Library, Room F324, Geschwister-Scholl-Platz 1
 
 Agenda:
 
-- Talk by Björn Brötz (DLR): An open-source electronic laboratory notebook
-- Talk by Benjamin Rodenberg (TUM): CodeOcean, Binder and Reproducible Python
+- Talk by Dominik Leipold (LMU): Digital Infrastructure and RSE for the Critical Edition of the Works of Richard Strauss
+- Looking for a second speaker, see contact details at the end
 
-[Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup1-24) - Add yourself if you are planning to participate.
+Afterwards: Dinner together.
+
+[Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup2-24) - Add yourself if you are planning to participate.
 
 ## Past activity
 
+- 2024-02-22: First meeting in 2024, at the Max Planck Digital Library - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup1-24)
+  - Talk by Benjamin Rodenberg (TUM): CodeOcean, Binder and Reproducible Python
+  - Talk by Björn Brötz (DLR): An open-source electronic laboratory notebook
 - 2023-12-14: Fourth meeting in 2023, at LMU - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup4-23)
    - Talk by Hendrik Ballhausen: Privacy Preserving Computation – how to collaborate without sharing data
    - Talk by Michele Martone: The FIM (Fbi IMproved) image viewer and its development
