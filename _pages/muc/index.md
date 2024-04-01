@@ -9,6 +9,9 @@ Our group is the place to meet other [research software engineers](https://de-rs
 
 Our meetings include short talks about anything related to RSE (research data management, software development, teaching/training, and more), as well as open discussions on topics brought into the agenda by any attendee.
 
+![Photo of a part of the Munich RSE group at deRSE24](chapter-muc-photo-derse24.jpg)
+_A part of our group (with unfortunately many people missing) met at [deRSE24](https://events.hifis.net/event/994/). Photoshooting arranged by Maximilian Frank._
+
 ## News
 
 **Next meeting:** April 11, 2024, 17:00-18:45 at the LMU University Library, Room F324, Geschwister-Scholl-Platz 1
