@@ -19,7 +19,7 @@ _A part of our group (with unfortunately many people missing) met at [deRSE24](h
 Agenda:
 
 - Talk by Ivan Pribec (LRZ): Introducing the Fortran-Lang community
-- Talk by Friedrich Ulrich and Benjamin Farnbacher (TUM): Research Data Management in HPC: Applications & Best Practices
+- Talk by Friedrich Ulrich and Benjamin Farnbacher (TUM): Research Data Management in HPMC: Applications & Best Practices
 
 Afterwards: Dinner together at the [Garnix](https://garnix-openair.de/) festival.
 
