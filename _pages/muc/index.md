@@ -14,19 +14,22 @@ _A part of our group (with unfortunately many people missing) met at [deRSE24](h
 
 ## News
 
-**Next meeting:** June 20, 2024, 17:00-18:45 at the [Leibniz Supercomputing Centre](https://www.lrz.de/english/) (Garching, U6: Garching-Forschungszentrum).
+**Next meeting:** October 17, 2024, 17:00-18:45 at the [LMU University Library, Room F324]([https://www.lrz.de/english/](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=003003324_) (Munich, U3/U6: Universität).
 
 Agenda:
 
-- Talk by Ivan Pribec (LRZ): Introducing the Fortran-Lang community
-- Talk by Friedrich Ulrich and Benjamin Farnbacher (TUM): Research Data Management in HPMC: Applications & Best Practices
+- Talk by Nafiseh Moti (LRZ): tbc
+- Talk by Raphael Ritz (MPCDF): tbc
 
-Afterwards: Dinner together at the [Garnix](https://garnix-openair.de/) festival.
+Afterwards: Dinner together at [Atzinger](https://atzinger-restaurant.de/).
 
-[Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup3-24) - Add yourself if you are planning to participate.
+[Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup4-24) - Add yourself if you are planning to participate.
 
 ## Past activity
 
+- 2024-06-20: Third meeting in 2024, at LRZ - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup3-24)
+  - Talk by Ivan Pribec (LRZ): Introducing the Fortran-Lang community
+  - Talk by Friedrich Ulrich and Benjamin Farnbacher (TUM): Research Data Management in HPMC: Applications & Best Practices
 - 2024-04-11: Second meeting in 2024, at LMU - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup2-24)
   - Talk by Dominik Leipold (LMU): Digital Infrastructure and RSE for the Critical Edition of the Works of Richard Strauss
   - Talk by Jonas Hagenberg (MPI of Psychiatry): The code club at the MPI  of Psychiatry
