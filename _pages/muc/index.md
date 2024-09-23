@@ -14,7 +14,7 @@ _A part of our group (with unfortunately many people missing) met at [deRSE24](h
 
 ## News
 
-**Next meeting:** October 17, 2024, 17:00-18:45 at the [LMU University Library, Room F324]([https://www.lrz.de/english/](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=003003324_) (Munich, U3/U6: Universität).
+**Next meeting:** October 17, 2024, 17:00-18:45 at the [LMU University Library, Room F324](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=003003324_) (Munich, U3/U6: Universität).
 
 Agenda:
 
