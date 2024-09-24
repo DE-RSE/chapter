@@ -13,7 +13,7 @@ Welcome to the website for the **b**erlin-brand**e**nburg **RSE** **r**egional *
 beRSErc is an open group of people from the area who care about research software.
 We're aiming at meeting regularly (monthly/bi-monthly frequency) in different locations.
 
-**Chat**: [Chat (GWDG Rocket.Chat)](https://chat.gwdg.de/channel/derse_berlin_brandenburg)
+**Chat**: [Chat (Matrix/Element)](https://matrix.to/#/#de-rse.org-chapter-beRSErc:matrix.org)
 
 **Meeting notes**: [https://bit.ly/berserc-index](https://bit.ly/berserc-index)
 

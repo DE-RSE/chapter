@@ -9,21 +9,36 @@ Our group is the place to meet other [research software engineers](https://de-rs
 
 Our meetings include short talks about anything related to RSE (research data management, software development, teaching/training, and more), as well as open discussions on topics brought into the agenda by any attendee.
 
+![Photo of a part of the Munich RSE group at deRSE24](chapter-muc-photo-derse24.jpg)
+_A part of our group (with unfortunately many people missing) met at [deRSE24](https://events.hifis.net/event/994/). Photoshooting arranged by Maximilian Frank._
+
 ## News
 
-**Next meeting:** December 14, 2023, 17:00-18:30 at the LMU University Library, [Room F324, Geschwister-Scholl-Platz 1](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=003003324_).
+**Next meeting:** October 17, 2024, 17:00-18:45 at the [LMU University Library, Room F324](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=003003324_) (Munich, U3/U6: Universität).
 
 Agenda:
 
-- Talk by Hendrik Ballhausen: Privacy Preserving Computation – how to collaborate without sharing data
-- Talk by Michele Martone: The FIM (Fbi IMproved) image viewer and its development
+- Talk by Nafiseh Moti (LRZ): tbc
+- Talk by Raphael Ritz (MPCDF): tbc
 
-After the talks/discussion, we will continue to a Christmas market. Join the [mailing list of our chapter](https://lists.lrz.de/mailman/listinfo/rse) to learn more.
+Afterwards: Dinner together at [Atzinger](https://atzinger-restaurant.de/).
 
-[Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup4-23) - Add yourself if you are planning to participate.
+[Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup4-24) - Add yourself if you are planning to participate.
 
 ## Past activity
 
+- 2024-06-20: Third meeting in 2024, at LRZ - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup3-24)
+  - Talk by Ivan Pribec (LRZ): Introducing the Fortran-Lang community
+  - Talk by Friedrich Ulrich and Benjamin Farnbacher (TUM): Research Data Management in HPMC: Applications & Best Practices
+- 2024-04-11: Second meeting in 2024, at LMU - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup2-24)
+  - Talk by Dominik Leipold (LMU): Digital Infrastructure and RSE for the Critical Edition of the Works of Richard Strauss
+  - Talk by Jonas Hagenberg (MPI of Psychiatry): The code club at the MPI  of Psychiatry
+- 2024-02-22: First meeting in 2024, at the Max Planck Digital Library - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup1-24)
+  - Talk by Benjamin Rodenberg (TUM): CodeOcean, Binder and Reproducible Python
+  - Talk by Björn Brötz (DLR): An open-source electronic laboratory notebook
+- 2023-12-14: Fourth meeting in 2023, at LMU - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup4-23)
+   - Talk by Hendrik Ballhausen: Privacy Preserving Computation – how to collaborate without sharing data
+   - Talk by Michele Martone: The FIM (Fbi IMproved) image viewer and its development
 - 2023-10-12: Third meeting in 2023, at LMU - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup3-23)
    - Talk by Raphael Ritz: NFDI Jupyter Hub
    - Talk by Michele Martone: Brief Basic Introduction in Semantic Patching with Coccinelle
