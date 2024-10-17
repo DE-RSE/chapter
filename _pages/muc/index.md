@@ -18,8 +18,8 @@ _A part of our group (with unfortunately many people missing) met at [deRSE24](h
 
 Agenda:
 
-- Talk by Nafiseh Moti (LRZ): tbc
-- Talk by Raphael Ritz (MPCDF): tbc
+- Talk by Nafiseh Moti (LRZ): HPC I/O tracing, new patterns and challenges 
+- Talk by Michele Martone (LRZ): Lessons learned from organizing a Free Software Appreciation Day or Afternoon
 
 Afterwards: Dinner together at [Atzinger](https://atzinger-restaurant.de/).
 
