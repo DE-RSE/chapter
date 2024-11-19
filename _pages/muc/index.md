@@ -55,7 +55,7 @@ Afterwards: Dinner together at [Potlatsch](https://potlatsch-muenchen.de/).
 
 ## Contact
 
-We organize ourselves mainly over the [Mailing list](https://lists.lrz.de/mailman/listinfo/rse). Definitely join us there to learn about upcoming events and other activities.
+We organize ourselves mainly over the [Mailing list](https://lists.lrz.de/mailman/listinfo/rse) and a [Matrix channel](https://matrix.to/#/#derse-chapter-muc:gitter.im). Definitely join us there to learn about upcoming events and other activities.
 
 For questions regarding the group, feel free to contact, for example:
   - [Heidi Seibold](https://heidiseibold.com/)
