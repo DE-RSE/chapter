@@ -14,19 +14,22 @@ _A part of our group (with unfortunately many people missing) met at [deRSE24](h
 
 ## News
 
-**Next meeting:** October 17, 2024, 17:00-18:45 at the [LMU University Library, Room F324](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=003003324_) (Munich, U3/U6: Universität).
+**Next meeting:** November 28, 2024, 17:00-18:45 at the [Max Planck Digital Library (MPDL), 7th floor](https://maps.app.goo.gl/DLDhRtCTtgnqwqcr8) (S-Bahn station: Laim).
 
 Agenda:
 
-- Talk by Nafiseh Moti (LRZ): tbc
-- Talk by Raphael Ritz (MPCDF): tbc
+- Talk by Raphael Ritz (MPCDF):  
+- Talk by Gerasimos Chourdakis (Univ. Stuttgart / TUM): Standardization process and metadata in the preCICE ecosystem
 
-Afterwards: Dinner together at [Atzinger](https://atzinger-restaurant.de/).
+Afterwards: Dinner together at [Potlatsch](https://potlatsch-muenchen.de/).
 
-[Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup4-24) - Add yourself if you are planning to participate.
+[Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup5-24) - Add yourself if you are planning to participate.
 
 ## Past activity
 
+- 2024-10-17: Fourth meeting in 2024, at LMU - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup4-24)
+  - Talk by Nafiseh Moti (LRZ): HPC I/O tracing, new patterns and challenges 
+  - Talk by Michele Martone (LRZ): Lessons learned from organizing a Free Software Appreciation Day or Afternoon
 - 2024-06-20: Third meeting in 2024, at LRZ - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup3-24)
   - Talk by Ivan Pribec (LRZ): Introducing the Fortran-Lang community
   - Talk by Friedrich Ulrich and Benjamin Farnbacher (TUM): Research Data Management in HPMC: Applications & Best Practices
