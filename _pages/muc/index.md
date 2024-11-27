@@ -14,7 +14,7 @@ _A part of our group (with unfortunately many people missing) met at [deRSE24](h
 
 ## News
 
-**Next meeting:** November 28, 2024, 17:00-18:45 at the [Max Planck Digital Library (MPDL), 7th floor](https://maps.app.goo.gl/DLDhRtCTtgnqwqcr8) (S-Bahn station: Laim).
+**Next meeting:** ~~November 28, 2024~~ January 23, 2025, 17:00-18:45 at the [Max Planck Digital Library (MPDL), 7th floor](https://maps.app.goo.gl/DLDhRtCTtgnqwqcr8) (S-Bahn station: Laim).
 
 Agenda:
 
