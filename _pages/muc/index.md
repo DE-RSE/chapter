@@ -18,7 +18,7 @@ _A part of our group (with unfortunately many people missing) met at [deRSE24](h
 
 Agenda:
 
-- Talk by Raphael Ritz (MPCDF):  
+- Talk by Raphael Ritz (MPCDF): The EOSC EU Node
 - Talk by Gerasimos Chourdakis (Univ. Stuttgart / TUM): Standardization process and metadata in the preCICE ecosystem
 
 Afterwards: Dinner together at [Potlatsch](https://potlatsch-muenchen.de/).
