@@ -15,7 +15,7 @@ We're aiming at meeting regularly (monthly/bi-monthly frequency) in different lo
 
 **Chat**: [Chat (Matrix/Element)](https://matrix.to/#/#de-rse.org-chapter-beRSErc:matrix.org)
 
-**Meeting notes**: [https://bit.ly/berserc-index](https://bit.ly/beRSErc)
+**Meeting notes**: [https://bit.ly/beRSErc](https://bit.ly/beRSErc)
 
 **Contact**: [Stephan Druskat](https://sdruskat.net/)
 
