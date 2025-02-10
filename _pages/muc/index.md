@@ -63,9 +63,9 @@ Afterwards: Dinner together at [Atzinger](https://atzinger-restaurant.de/).
 We organize ourselves mainly over the [Mailing list](https://lists.lrz.de/mailman/listinfo/rse) and a [Matrix channel](https://matrix.to/#/#derse-chapter-muc:gitter.im). Definitely join us there to learn about upcoming events and other activities.
 
 For questions regarding the group, feel free to contact, for example:
-  - [Heidi Seibold](https://heidiseibold.com/)
+  - [Larissa Leiminger](https://www.mpdl.mpg.de/en/about-us/team.html) - MPDL
   - [Martin Spenger](https://www.ub.uni-muenchen.de/ueber-die-ub/kontakt/personen/spenger/index.html) - LMU
-  - [Gerasimos Chourdakis](https://www.cs.cit.tum.de/en/sccs/people/gerasimos-chourdakis/) - TUM
+  - [Gerasimos Chourdakis](https://www.cs.cit.tum.de/en/sccs/people/gerasimos-chourdakis/) - Univ. Stuttgart / TUM
 
 **Sprache:** Um die Reichweite der Gruppe zu maximieren und mit Rücksicht auf die vielen nicht-deutschen Studenten, Doktoranden und Forscher in München, ist die Arbeitssprache der Gruppe Englisch. Natürlich bleibt Deutsch immer eine Option für die Diskussionen.
 
