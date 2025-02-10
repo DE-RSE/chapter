@@ -14,19 +14,24 @@ _A part of our group (with unfortunately many people missing) met at [deRSE24](h
 
 ## News
 
-**Next meeting:** ~~November 28, 2024~~ January 23, 2025, 17:00-18:45 at the [Max Planck Digital Library (MPDL), 7th floor](https://maps.app.goo.gl/DLDhRtCTtgnqwqcr8) (S-Bahn station: Laim).
+**Next meeting:** March 20, 2025, 17:00-18:45 at the LMU University Library.
+
+We will meet in person at LMU University Library, [Fachbibliothek Philologicum, Multifunktionsraum](https://www.en.ub.uni-muenchen.de/libraries/libraries/1300/index.html), Ludwigstr. 25 - main entrance just around the corner from Schellingstraße.
 
 Agenda:
 
-- Talk by Raphael Ritz (MPCDF): The EOSC EU Node
-- Talk by Gerasimos Chourdakis (Univ. Stuttgart / TUM): Standardization process and metadata in the preCICE ecosystem
+- Talk by Jonas Hagenberg (MP Psychiatry): Summary of the "Code for Science oder: Bessere Forschungssoftware durch bessere Forschungssoftwarekompetenzen" workshop from December 2024
+- A second talk will be confirmed soon (see the [meeting notes](https://pad.okfn.de/p/rse-muc-meetup2-25)).
 
-Afterwards: Dinner together at [Potlatsch](https://potlatsch-muenchen.de/).
+Afterwards: Dinner together at [Atzinger](https://atzinger-restaurant.de/).
 
-[Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup5-24) - Add yourself if you are planning to participate.
+[Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup2-25) - Add yourself if you are planning to participate.
 
 ## Past activity
 
+- 2025-01-23: First meeting in 2025, at MPDL - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup5-24)
+  - Talk by Raphael Ritz (MPCDF): The EOSC EU Node
+  - Talk by Gerasimos Chourdakis (Univ. Stuttgart / TUM): Standardization process and metadata in the preCICE ecosystem
 - 2024-10-17: Fourth meeting in 2024, at LMU - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup4-24)
   - Talk by Nafiseh Moti (LRZ): HPC I/O tracing, new patterns and challenges 
   - Talk by Michele Martone (LRZ): Lessons learned from organizing a Free Software Appreciation Day or Afternoon
