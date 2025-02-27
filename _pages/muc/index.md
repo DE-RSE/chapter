@@ -9,8 +9,8 @@ Our group is the place to meet other [research software engineers](https://de-rs
 
 Our meetings include short talks about anything related to RSE (research data management, software development, teaching/training, and more), as well as open discussions on topics brought into the agenda by any attendee.
 
-![Photo of a part of the Munich RSE group at deRSE24](chapter-muc-photo-derse24.jpg)
-_A part of our group (with unfortunately many people missing) met at [deRSE24](https://events.hifis.net/event/994/). Photoshooting arranged by Maximilian Frank._
+![Photo of a part of the Munich RSE group at deRSE25](chapter-muc-photo-derse25.jpg)
+_A part of our group (with unfortunately many people missing) met at [deRSE25](https://events.hifis.net/event/2050/)._
 
 ## News
 
@@ -68,5 +68,10 @@ For questions regarding the group, feel free to contact, for example:
   - [Gerasimos Chourdakis](https://www.cs.cit.tum.de/en/sccs/people/gerasimos-chourdakis/) - Univ. Stuttgart / TUM
 
 **Sprache:** Um die Reichweite der Gruppe zu maximieren und mit Rücksicht auf die vielen nicht-deutschen Studenten, Doktoranden und Forscher in München, ist die Arbeitssprache der Gruppe Englisch. Natürlich bleibt Deutsch immer eine Option für die Diskussionen.
+
+## Further photos
+
+![Photo of a part of the Munich RSE group at deRSE24](chapter-muc-photo-derse24.jpg)
+_A part of our group (with unfortunately many people missing) met at [deRSE24](https://events.hifis.net/event/994/). Photoshooting arranged by Maximilian Frank._
 
 [Edit this page](https://github.com/DE-RSE/chapter/blob/master/_pages/muc/index.md)
