@@ -16,11 +16,11 @@ _A part of our group (with unfortunately many people missing) met at [deRSE25](h
 
 **Next meeting:** May 22, 2025, 17:00-18:45 at the LMU Hospital.
 
-We will meet in person at the entrance of the LMU Klinikum, Lindwurmstrasse 2a, 80337 Munich. The room is barrier-free.
+We will meet in person at the entrance from 16:50 on: Lindwurmstrasse 2a, 80337 Munich. The room is barrier-free.
 
 Agenda:
 
-- Talk by Alberto Villagran (LMU Open Science Center): Experience in the implementation of Open Science principles in KUM-LMU cBRAIN lab (neuroimaging lab) (under the LMU OSC program "Switch to Open") 
+- Talk by Alberto Villagran (cBRAIN lab, KJP, LMU University Hospital): Experience in the implementation of Open Science principles in KUM-LMU cBRAIN lab (neuroimaging lab) (under the LMU OSC program "Switch to Open") 
 - A second talk will be confirmed soon.
 
 Afterwards: Dinner together (details to be announced in the notes).
