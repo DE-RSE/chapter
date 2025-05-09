@@ -14,21 +14,24 @@ _A part of our group (with unfortunately many people missing) met at [deRSE25](h
 
 ## News
 
-**Next meeting:** March 20, 2025, 17:00-18:45 at the LMU University Library.
+**Next meeting:** May 22, 2025, 17:00-18:45 at the LMU Hospital.
 
-We will meet in person at LMU University Library, [Fachbibliothek Philologicum, Multifunktionsraum](https://www.en.ub.uni-muenchen.de/libraries/libraries/1300/index.html), Ludwigstr. 25 - main entrance just around the corner from Schellingstraße.
+We will meet in person at the entrance from 16:50 on: Lindwurmstrasse 2a, 80337 Munich. The room is barrier-free.
 
 Agenda:
 
-- Talk by Jonas Hagenberg (MP Psychiatry): Summary of the "Code for Science oder: Bessere Forschungssoftware durch bessere Forschungssoftwarekompetenzen" workshop from December 2024
-- A second talk will be confirmed soon (see the [meeting notes](https://pad.okfn.de/p/rse-muc-meetup2-25)).
+- Talk by Alberto Villagran (cBRAIN lab, KJP, LMU University Hospital): Experience in the implementation of Open Science principles in KUM-LMU cBRAIN lab (neuroimaging lab) (under the LMU OSC program "Switch to Open") 
+- A second talk will be confirmed soon.
 
-Afterwards: Dinner together at [Atzinger](https://atzinger-restaurant.de/).
+Afterwards: Dinner together (details to be announced in the notes).
 
-[Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup2-25) - Add yourself if you are planning to participate.
+[Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup3-25) - Add yourself if you are planning to participate.
 
 ## Past activity
 
+- 2025-03-20: Second meeting in 2025, at LMU - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup2-25)
+  - Talk by Jonas Hagenberg (MP Psychiatry): Summary of the "Code for Science oder: Bessere Forschungssoftware durch bessere Forschungssoftwarekompetenzen" workshop from December 2024
+  - Talk by David Walter and Laura Bahamón (MPDL): Presentation of our project "MAUS" - Machine Automated Support for Software Management Plans
 - 2025-01-23: First meeting in 2025, at MPDL - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup5-24)
   - Talk by Raphael Ritz (MPCDF): The EOSC EU Node
   - Talk by Gerasimos Chourdakis (Univ. Stuttgart / TUM): Standardization process and metadata in the preCICE ecosystem
