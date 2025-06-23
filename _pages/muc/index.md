@@ -14,21 +14,26 @@ _A part of our group (with unfortunately many people missing) met at [deRSE25](h
 
 ## News
 
-**Next meeting:** May 22, 2025, 17:00-18:45 at the LMU Hospital.
+**Next meeting:** July 3, 2025, 17:00-18:45 at the Max Planck Computing and Data Facility.
 
-We will meet in person at the entrance from 16:50 on: Lindwurmstrasse 2a, 80337 Munich. The room is barrier-free.
+Addres:  Gießenbachstraße 2, 85748 Garching (U6 Garching Forschungszentrum) - Room: TBA
 
-Agenda:
+Agenda (see the meeting notes pad for the latest state):
 
-- Talk by Alberto Villagran (cBRAIN lab, KJP, LMU University Hospital): Experience in the implementation of Open Science principles in KUM-LMU cBRAIN lab (neuroimaging lab) (under the LMU OSC program "Switch to Open") 
-- A second talk will be confirmed soon.
+- 16:50-17:00: People arrive
+- 17:00-17:15: Introductions and general announcements
+- 17:15-17:45: Talk 1 by ... (...): ...
+- 17:45-18:15: Announcements and organizational aspects
+- 18:15-18:45: Talk 2 by ... (...): ...
+- 19:00-open: Stammtisch-style discussions at the [GARNIX festival](https://garnix-openair.de/)
 
-Afterwards: Dinner together (details to be announced in the notes).
-
-[Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup3-25) - Add yourself if you are planning to participate.
+[Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup4-25) - Add yourself if you are planning to participate.
 
 ## Past activity
 
+- 2025-05-22: Third meeting in 2025, at the LMU Hospital - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup3-25)
+  - Talk by Alberto Villagran (cBRAIN lab, KJP, LMU University Hospital): Experience in the implementation of Open Science principles in KUM-LMU cBRAIN lab (neuroimaging lab) (under the LMU OSC program "Switch to Open")
+  - Talk by Balthasar Schachtner (LMU Hospital): CORE, a scientific computing infrastructure at the LMU hospital 
 - 2025-03-20: Second meeting in 2025, at LMU - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup2-25)
   - Talk by Jonas Hagenberg (MP Psychiatry): Summary of the "Code for Science oder: Bessere Forschungssoftware durch bessere Forschungssoftwarekompetenzen" workshop from December 2024
   - Talk by David Walter and Laura Bahamón (MPDL): Presentation of our project "MAUS" - Machine Automated Support for Software Management Plans
