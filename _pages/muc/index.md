@@ -16,7 +16,7 @@ _A part of our group (with unfortunately many people missing) met at [deRSE25](h
 
 **Next meeting:** July 3, 2025, 17:00-18:45 at the Max Planck Computing and Data Facility.
 
-Addres:  Gießenbachstraße 2, 85748 Garching (U6 Garching Forschungszentrum) - Room: TBA
+Address:  Gießenbachstraße 2, 85748 Garching (U6 Garching Forschungszentrum) - Room: TBA
 
 Agenda (see the meeting notes pad for the latest state):
 
