@@ -23,9 +23,9 @@ Agenda (see the meeting notes pad for the latest state):
 
 - 16:50-17:00: People arrive
 - 17:00-17:15: Introductions and general announcements
-- 17:15-17:45: Talk 1 by ... (...): ...
+- 17:15-17:45: Talk 1 by Raphael Ritz (MPCDF): Data rescue operations in Germany and beyond
 - 17:45-18:15: Announcements and organizational aspects
-- 18:15-18:45: Talk 2 by ... (...): ...
+- 18:15-18:45: Talk 2 by Michele Martone (LRZ): Insights and reflections after three weeks of scientific computing conferences
 - 19:00-open: Stammtisch-style discussions at the [GARNIX festival](https://garnix-openair.de/)
 
 [Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup4-25) - Add yourself if you are planning to participate.
