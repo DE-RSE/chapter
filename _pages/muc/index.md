@@ -14,7 +14,7 @@ _A part of our group (with unfortunately many people missing) met at [deRSE25](h
 
 ## News
 
-**Next meeting:** October 16, 2025, 17:00-18:45 at LMU University Library.
+**Next meeting:** October 16, 2025, 17:00-18:45 at the LMU University Library.
 
 Address:  LMU University Library, Fachbibliothek Philologicum, Multifunktionsraum, Ludwigstr. 25 - main entrance just around the corner from Schellingstraße [(Location)](https://www.en.ub.uni-muenchen.de/libraries/libraries/1300/index.html) 
 
