@@ -22,9 +22,9 @@ Agenda (see the meeting notes pad for the latest state):
 
 - 16:50-17:00: People arrive
 - 17:00-17:15: Introductions and general announcements
-- 17:15-17:45: Talk 1 tba
+- 17:15-17:45: Talk: Experiences of a researcher, who went from "works in my computer" to leading an open-source research suite Enhance.pet
 - 17:45-18:15: Announcements and organizational aspects
-- 18:15-18:45: Talk 2 tba
+- 18:15-18:45: Discussion: FutuRSI survey and research software services in Munich
 - 19:00-open: Stammtisch-style discussions at [Atzinger](https://atzinger-restaurant.de/) 
 
 [Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup5-25) - Add yourself if you are planning to participate.
