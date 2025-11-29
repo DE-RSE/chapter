@@ -12,26 +12,23 @@ Our meetings include short talks about anything related to RSE (research data ma
 ![Photo of a part of the Munich RSE group at deRSE25](chapter-muc-photo-derse25.jpg)
 _A part of our group (with unfortunately many people missing) met at [deRSE25](https://events.hifis.net/event/2050/)._
 
+## Join the group
+
+Get the latest updates and say hi in our:
+
+- [Matrix channel](https://matrix.to/#/#derse-chapter-muc:gitter.im)
+- [Mailing list](https://lists.lrz.de/mailman/listinfo/rse)
+
 ## News
 
-**Next meeting:** October 16, 2025, 17:00-18:45 at the LMU University Library.
-
-Address:  LMU University Library, Fachbibliothek Philologicum, Multifunktionsraum, Ludwigstr. 25 - main entrance just around the corner from Schellingstraße [(Location)](https://www.en.ub.uni-muenchen.de/libraries/libraries/1300/index.html) 
-
-Agenda (see the meeting notes pad for the latest state):
-
-- 16:50-17:00: People arrive
-- 17:00-17:15: Introductions and general announcements
-- 17:15-17:45: Talk: Experiences of a researcher, who went from "works in my computer" to leading an open-source research suite Enhance.pet
-- 17:45-18:15: Announcements and organizational aspects
-- 18:15-18:45: Discussion: FutuRSI survey and research software services in Munich
-- 19:00-open: Stammtisch-style discussions at [Atzinger](https://atzinger-restaurant.de/) 
-
-[Invitation / Meeting notes](https://pad.okfn.de/p/rse-muc-meetup5-25) - Add yourself if you are planning to participate.
+Our group is currently resting, reflecting, and quietly preparing its next steps. See the past activity to find out what we do, and stay tuned for more events.
 
 ## Past activity
 
-- 2025-07-03 Fourth meeting in 2025, at the Max Planck Computing and Data Facility - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup4-25)
+- 2025-10-16: Fifth meeting in 2025, at the LMU University Library - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup5-25)
+  - Talk: Experiences of a researcher, who went from "works in my computer" to leading an open-source research suite Enhance.pet
+  - Discussion: FutuRSI survey and research software services in Munich
+- 2025-07-03: Fourth meeting in 2025, at the Max Planck Computing and Data Facility - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup4-25)
   -  Talk by Raphael Ritz (MPCDF): Data rescue operations in Germany and beyond
   -  Talk by Michele Martone (LRZ): Insights and reflections after three weeks of scientific computing conferences
 - 2025-05-22: Third meeting in 2025, at the LMU Hospital - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup3-25)
