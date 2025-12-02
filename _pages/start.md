@@ -25,7 +25,7 @@ _Ein formaler Prozess existiert derzeit nicht, es gibt nur die folgende Anforder
 
 Eine [Vereinsmitgliedschaft bei de-RSE e.V.](https://de-rse.org/de/association.html) ist nicht notwendig, aber wir freuen uns natürlich, wenn Ihr die Community auch auf diesem Wege unterstützen wollt.
 
-Wende Dich gerne an Daniel Nüst ([mailto:daniel.nuest@tu-dresden.de](daniel.nuest@tu-dresden.de)) oder komm in den [Chapter Chatraum](https://chat.gwdg.de/channel/derse_chapter), wenn Du Fragen hast!
+Wende Dich gerne an Daniel Nüst ([mailto:daniel.nuest@tu-dresden.de](daniel.nuest@tu-dresden.de)) oder komm in den [Chatraum](https://matrix.to/#/#de-rse.org-general:matrix.org), wenn Du Fragen hast!
 
 ### 1. Chapter auf der Webseite eintragen
 
