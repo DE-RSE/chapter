@@ -55,6 +55,7 @@ Aktuelle Chapters in Deutschland:
 - [Jena](./jeRSE)
 - [München](./muc)
 - [Münster](./ms)
+- [Schleswig-Holstein](./sh)
 - [Stuttgart](./str)
 - [Würzburg](./wue)
 
