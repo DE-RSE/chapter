@@ -5,8 +5,11 @@ permalink: /muc/
 layout: single
 ---
 
-Our group is the place to meet other [research software engineers](https://de-rse.org/en/) in Munich. We aim for a meeting every two months, followed by dinner and networking.
+_**Better Software - Better Research, also in Munich!**_
 
+Our group is the place to meet other [research software engineers](https://de-rse.org/en/) in Munich. Do you write code for research? This is your crowd!
+
+We aim for a meeting every two months, followed by dinner and networking.
 Our meetings include short talks about anything related to RSE (research data management, software development, teaching/training, and more), as well as open discussions on topics brought into the agenda by any attendee.
 
 ![Photo of a part of the Munich RSE group at deRSE25](chapter-muc-photo-derse25.jpg)
