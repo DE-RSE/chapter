@@ -24,7 +24,7 @@ Our meetings are currently organized mainly by members of the **Working Group on
 
 ### Past Meetings
 
-- **02 December 2025**, 10:00–11:00 CET
+\-
 
 ## FDM.SH
 
