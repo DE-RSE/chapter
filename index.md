@@ -63,4 +63,4 @@ Aktuelle Chapters in Deutschland:
 
 {% include feature_row %}
 
-_Looking for information in English?_ Please reach out to [Daniel](mailto:daniel.nuest@uni-muenster.de) directly.
+_Looking for information in English?_ Please reach out to [Daniel](mailto:daniel.nuest@tu-dresden.de) directly.

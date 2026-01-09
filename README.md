@@ -1,6 +1,6 @@
 # RSE Chapters in Deutschland
 
-[_Looking for information in English?_ Please reach out to [Daniel](mailto:daniel.nuest@uni-muenster.de) directly.]
+[_Looking for information in English?_ Please reach out to [Daniel](mailto:daniel.nuest@tu-dresden.de) directly.]
 
 Regionale und lokale Gruppen, sogenannte Chapters, unter dem Dach von de-RSE haben eine eigene Webseite: **[https://de-rse.org/chapter](https://de-rse.org/chapter)**.
 
