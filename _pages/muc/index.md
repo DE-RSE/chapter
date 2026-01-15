@@ -24,7 +24,14 @@ Get the latest updates and say hi in our:
 
 ## News
 
-Our group is currently resting, reflecting, and quietly preparing its next steps. See the past activity to find out what we do, and stay tuned for more events.
+Next event: **Thursday, January 29th**, 18:00 – 19:30, at the LMU University Library ([Register here](https://pad.okfn.de/p/rse-muc-meetup1-26)):
+
+- Introductions and general announcements
+- Results from the survey and discussion about the future of the group
+- Open round: "RSE papers you recently read" and/or "Useful tools you recently used"
+- Closing remarks and planning next meetings
+
+Afterwards: Stammtisch-style discussions at [Atzinger](https://atzinger-restaurant.de/).
 
 ## Past activity
 
