@@ -7,7 +7,7 @@ layout: single
 
 _**Better Software - Better Research, also in Munich!**_
 
-Our group is the place to meet other [research software engineers](https://de-rse.org/en/) in Munich. Do you write code for research? This is your crowd!
+Our group is the place to meet other [research software engineers](https://de-rse.org/en/) in Munich. Do you write code for research? It doesn't matter if you just started or you are already an expert - This is your crowd!
 
 We aim for a meeting every two months, followed by dinner and networking.
 Our meetings include short talks about anything related to RSE (research data management, software development, teaching/training, and more), as well as open discussions on topics brought into the agenda by any attendee.
@@ -24,17 +24,27 @@ Get the latest updates and say hi in our:
 
 ## News
 
-Next event: **Thursday, January 29th**, 18:00 – 19:30, at the LMU University Library ([Register here](https://pad.okfn.de/p/rse-muc-meetup1-26)):
+Next event: **Thursday, March 19**, 18:00 – 19:30, at the LMU University Library ([Register here](https://pad.okfn.de/p/rse-muc-meetup2-26)):
 
 - Introductions and general announcements
-- Results from the survey and discussion about the future of the group
-- Open round: "RSE papers you recently read" and/or "Useful tools you recently used"
+- Open round: RSE Journal Club (see pad for details)
 - Closing remarks and planning next meetings
 
 Afterwards: Stammtisch-style discussions at [Atzinger](https://atzinger-restaurant.de/).
 
+Save the date also for the next sessions in 2026:
+
+- May 6, 18:00 - 19:30
+- July 30, 18:00 - 19:30
+- September 24, 18:00 - 19:30
+- November 26, 18:00 - 19:30
+
+By default at the LMU University Library, unless announced otherwise. Speak up if you are interested in hosting!
+
 ## Past activity
 
+- 2026-01-29: First meeting in 2026, at the LMU University Library - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup1-26)
+  - Results from the survey and discussion about the future of the group 
 - 2025-10-16: Fifth meeting in 2025, at the LMU University Library - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup5-25)
   - Talk: Experiences of a researcher, who went from "works in my computer" to leading an open-source research suite Enhance.pet
   - Discussion: FutuRSI survey and research software services in Munich
