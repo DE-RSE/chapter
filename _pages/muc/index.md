@@ -27,7 +27,7 @@ Get the latest updates and say hi in our:
 Next event: **Thursday, March 19**, 18:00 – 19:30, at the Max Planck Information and Technology (MaxIT), in the MARK office building in Laim ([Register here](https://pad.okfn.de/p/rse-muc-meetup2-26)):
 
 - Introductions and general announcements
-- Talk by Heidi Seibold on the OSCARS project 
+- Talk by Heidi Seibold on the [OSCARS project ](https://oscars-project.eu/projects/ospark-bootcamp-open-science-promotion-and-advocacy-research-knowledge-bootcamp)
 - Open round: RSE Journal Club (see pad for details)
 - Closing remarks and planning next meetings
 
