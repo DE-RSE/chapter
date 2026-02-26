@@ -28,10 +28,10 @@ Next event: **Thursday, March 19**, 18:00 – 19:30, at the Max Planck Informati
 
 - Introductions and general announcements
 - Talk by Heidi Seibold on the [OSCARS project ](https://oscars-project.eu/projects/ospark-bootcamp-open-science-promotion-and-advocacy-research-knowledge-bootcamp)
-- Open round: RSE Journal Club (see pad for details)
+- Talk by Rafal Kowalewski (MPI BioChem) on DNA-PAINT and [Picasso](https://github.com/jungmannlab/picasso)
 - Closing remarks and planning next meetings
 
-Afterwards: Collective cooking (preliminary) and Stammtisch-like discussion. 
+Afterwards: Collective cooking and Stammtisch-like discussion. We'll prepare two different types of pasta (non vegan/vegan). 
 
 Save the date also for the next sessions in 2026:
 
