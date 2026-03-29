@@ -5,7 +5,7 @@ Author of the banner, logo: Christina Maria Mayr -> feel free to use them (CC0)
 Christina Mayr checked that the banner is not in conflict with existing figures.
 
 LinkedIn Admins:
-Christina Maria Mayr (christina_maria.mayr@hm.edu)
+Christina Maria Mayr
 Gerasimos Chourdakis
 Martin Spenger
 
