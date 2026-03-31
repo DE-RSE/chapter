@@ -9,8 +9,7 @@ _**Better Software - Better Research, also in Munich!**_
 
 Our group is the place to meet other [research software engineers](https://de-rse.org/en/) in Munich. Do you write code for research? It doesn't matter if you just started or you are already an expert - This is your crowd!
 
-<img src="social_media/linkedIn/linkedIn-logo.png" alt="Logo of the Munich chapter" style="width:220px; max-width:100%; height:auto;" />
-_Munich Chapter logo._
+<img src="chapter-muc-logo.png" alt="Logo of the de-RSE Munich chapter" style="width:220px; max-width:100%; height:auto;" />
 
 We aim for a meeting every two months, followed by dinner and networking.
 Our meetings include short talks about anything related to RSE (research data management, software development, teaching/training, and more), as well as open discussions on topics brought into the agenda by any attendee.
