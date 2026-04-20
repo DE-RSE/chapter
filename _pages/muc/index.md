@@ -26,7 +26,7 @@ Get the latest updates and say hi in our:
 
 ## News
 
-Next event: **Thursday, March 19**, 18:00 – 19:30, at the LMU University Library - ([Register here](https://pad.okfn.de/p/rse-muc-meetup3-26)):
+Next event: **Wednesday, May 6**, 18:00 – 19:30, at the LMU University Library - ([Register here](https://pad.okfn.de/p/rse-muc-meetup3-26)):
 
 - Introductions and general announcements
 - Talk: de-RSE, FutuRSI & open thoughts from the German RSE landscape (Florian Mannseicher, de-RSE e.V.)
@@ -37,9 +37,9 @@ Afterwards: Stammtisch-style discussion at [Café Puck](https://cafe-puck.de/).
 
 Save the date also for the next sessions in 2026:
 
-- July 30, 18:00 - 19:30
-- September 24, 18:00 - 19:30
-- November 26, 18:00 - 19:30
+- Thursday, July 30, 18:00 - 19:30
+- Thursday, September 24, 18:00 - 19:30 (conflict: [de-RSE Collaboration Workshop](https://events.hifis.net/event/3249/overview) - might change)
+- Thursday, November 26, 18:00 - 19:30
 
 By default at the LMU University Library, unless announced otherwise. Speak up if you are interested in hosting!
 
