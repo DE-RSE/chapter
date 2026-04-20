@@ -35,6 +35,8 @@ Next event: **Wednesday, May 6**, 18:00 – 19:30, at the LMU University Library
 
 Afterwards: Stammtisch-style discussion at [Café Puck](https://cafe-puck.de/).
 
+While we normally meet on Thursdays, this event is scheduled to align with the [FOR2026](https://opensciencestudies.eu/for-2026-conference/for2026-program/) conference.
+
 Save the date also for the next sessions in 2026:
 
 - Thursday, July 30, 18:00 - 19:30
