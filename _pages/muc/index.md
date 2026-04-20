@@ -26,26 +26,30 @@ Get the latest updates and say hi in our:
 
 ## News
 
-Next event: **Thursday, March 19**, 18:00 – 19:30, at the Max Planck Information and Technology (MaxIT), in the MARK office building in Laim ([Register here](https://pad.okfn.de/p/rse-muc-meetup2-26)):
+Next event: **Wednesday, May 6**, 18:00 – 19:30, at the LMU University Library - ([Register here](https://pad.okfn.de/p/rse-muc-meetup3-26)):
 
 - Introductions and general announcements
-- Talk by Heidi Seibold on the [OSCARS project ](https://oscars-project.eu/projects/ospark-bootcamp-open-science-promotion-and-advocacy-research-knowledge-bootcamp)
-- Talk by Rafal Kowalewski (MPI BioChem) on DNA-PAINT and [Picasso](https://github.com/jungmannlab/picasso)
+- Talk: de-RSE, FutuRSI & open thoughts from the German RSE landscape (Florian Mannseicher, de-RSE e.V.)
+- Conversation with Dan Katz (University of Illinois Urbana-Champaign & Research Software Alliance (ReSA)) on RSE communities
 - Closing remarks and planning next meetings
 
-Afterwards: Collective cooking and Stammtisch-like discussion. We'll prepare two different types of pasta (non vegan/vegan). 
+Afterwards: Stammtisch-style discussion at [Café Puck](https://cafe-puck.de/).
+
+While we normally meet on Thursdays, this event is scheduled to align with the [FOR2026](https://opensciencestudies.eu/for-2026-conference/for2026-program/) conference.
 
 Save the date also for the next sessions in 2026:
 
-- May 6, 18:00 - 19:30
-- July 30, 18:00 - 19:30
-- September 24, 18:00 - 19:30
-- November 26, 18:00 - 19:30
+- Thursday, July 30, 18:00 - 19:30
+- Thursday, September 24, 18:00 - 19:30 (conflict: [de-RSE Collaboration Workshop](https://events.hifis.net/event/3249/overview) - might change)
+- Thursday, November 26, 18:00 - 19:30
 
 By default at the LMU University Library, unless announced otherwise. Speak up if you are interested in hosting!
 
 ## Past activity
 
+- 2026-03-19: Second meeting in 2026, at the Max Planck Information and Technology (MaxIT) - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup2-26)
+  - Talk by Heidi Seibold on the [OSCARS project ](https://oscars-project.eu/projects/ospark-bootcamp-open-science-promotion-and-advocacy-research-knowledge-bootcamp)
+  - Talk by Rafal Kowalewski (MPI BioChem) on DNA-PAINT and [Picasso](https://github.com/jungmannlab/picasso)
 - 2026-01-29: First meeting in 2026, at the LMU University Library - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup1-26)
   - Results from the survey and discussion about the future of the group 
 - 2025-10-16: Fifth meeting in 2025, at the LMU University Library - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup5-25)
