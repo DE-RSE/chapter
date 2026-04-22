@@ -9,20 +9,10 @@ _**Better Software - Better Research, also in Munich!**_
 
 Our group is the place to meet other [research software engineers](https://de-rse.org/en/) in Munich. Do you write code for research? It doesn't matter if you just started or you are already an expert - This is your crowd!
 
-![Logo of the de-RSE Munich chapter](chapter-muc-logo.png){:width="220px"}
+![Photos of the de-RSE Munich chapter](derse-muc-collage-2026.jpg)
 
 We aim for a meeting every two months, followed by dinner and networking.
 Our meetings include short talks about anything related to RSE (research data management, software development, teaching/training, and more), as well as open discussions on topics brought into the agenda by any attendee.
-
-![Photo of a part of the Munich RSE group at deRSE25](chapter-muc-photo-derse25.jpg)
-_A part of our group (with unfortunately many people missing) met at [deRSE25](https://events.hifis.net/event/2050/)._
-
-## Join the group
-
-Get the latest updates and say hi in our:
-
-- [Matrix channel](https://matrix.to/#/#derse-chapter-muc:gitter.im)
-- [Mailing list](https://lists.lrz.de/mailman/listinfo/rse)
 
 ## News
 
@@ -45,6 +35,13 @@ Save the date also for the next sessions in 2026:
 - Thursday, November 26, 18:00 - 19:30
 
 By default at the LMU University Library, unless announced otherwise. Speak up if you are interested in hosting!
+
+## Join the group
+
+Get the latest updates and say hi in our:
+
+- [Matrix channel](https://matrix.to/#/#derse-chapter-muc:gitter.im)
+- [Mailing list](https://lists.lrz.de/mailman/listinfo/rse)
 
 ## Past activity
 
@@ -106,6 +103,9 @@ For questions regarding the group, feel free to contact, for example:
 **Sprache:** Um die Reichweite der Gruppe zu maximieren und mit Rücksicht auf die vielen nicht-deutschen Studenten, Doktoranden und Forscher in München, ist die Arbeitssprache der Gruppe Englisch. Natürlich bleibt Deutsch immer eine Option für die Diskussionen.
 
 ## Further photos
+
+![Photo of a part of the Munich RSE group at deRSE25](chapter-muc-photo-derse25.jpg)
+_A part of our group (with unfortunately many people missing) met at [deRSE25](https://events.hifis.net/event/2050/)._
 
 ![Photo of a part of the Munich RSE group at deRSE24](chapter-muc-photo-derse24.jpg)
 _A part of our group (with unfortunately many people missing) met at [deRSE24](https://events.hifis.net/event/994/). Photoshooting arranged by Maximilian Frank._
