@@ -31,6 +31,7 @@ Next event: **Wednesday, May 6**, 18:00 – 19:30, at the LMU University Library
 - Introductions and general announcements
 - Talk: de-RSE, FutuRSI & open thoughts from the German RSE landscape (Florian Mannseicher, de-RSE e.V.)
 - Conversation with Dan Katz (University of Illinois Urbana-Champaign & Research Software Alliance (ReSA)) on RSE communities
+- Preliminary online-meeting with Peter Schmidt for a potential podcast session
 - Closing remarks and planning next meetings
 
 Afterwards: Stammtisch-style discussion at [Café Puck](https://cafe-puck.de/).
