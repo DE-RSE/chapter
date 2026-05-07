@@ -16,21 +16,16 @@ Our meetings include short talks about anything related to RSE (research data ma
 
 ## News
 
-Next event: **Wednesday, May 6**, 18:00 – 19:30, at the LMU University Library - ([Register here](https://pad.okfn.de/p/rse-muc-meetup3-26)):
+Next event: **Thursday, July 30**, 18:00 – 19:30, at the LMU University Library - ([Register here](https://pad.okfn.de/p/rse-muc-meetup4-26)):
 
 - Introductions and general announcements
-- Talk: de-RSE, FutuRSI & open thoughts from the German RSE landscape (Florian Mannseicher, de-RSE e.V.)
-- Conversation with Dan Katz (University of Illinois Urbana-Champaign & Research Software Alliance (ReSA)) on RSE communities
-- Preliminary online-meeting with Peter Schmidt for a potential podcast session
-- Closing remarks and planning next meetings
+- Talk: UI design for LLMs (Maximilian Frank, LMU)
+- Update on [data recue operations](https://en.wikipedia.org/wiki/Data_rescue) (Raphael Ritz, MPCDF)
 
 Afterwards: Stammtisch-style discussion at [Café Puck](https://cafe-puck.de/).
 
-While we normally meet on Thursdays, this event is scheduled to align with the [FOR2026](https://opensciencestudies.eu/for-2026-conference/for2026-program/) conference.
-
 Save the date also for the next sessions in 2026:
 
-- Thursday, July 30, 18:00 - 19:30
 - Thursday, September 24, 18:00 - 19:30 (conflict: [de-RSE Collaboration Workshop](https://events.hifis.net/event/3249/overview) - might change)
 - Thursday, November 26, 18:00 - 19:30
 
@@ -45,6 +40,10 @@ Get the latest updates and say hi in our:
 
 ## Past activity
 
+- 2026-05-06: Third meeting in 2026, at the LMU University Library - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup3-26)
+   - Talk: de-RSE, FutuRSI & open thoughts from the German RSE landscape (Florian Mannseicher, de-RSE e.V.)
+   - Conversation with Daniel Katz (University of Illinois Urbana-Champaign & Research Software Alliance (ReSA)) on RSE communities
+   - Preliminary online-meeting with Peter Schmidt for a potential podcast session
 - 2026-03-19: Second meeting in 2026, at the Max Planck Information and Technology (MaxIT) - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup2-26)
   - Talk by Heidi Seibold on the [OSCARS project ](https://oscars-project.eu/projects/ospark-bootcamp-open-science-promotion-and-advocacy-research-knowledge-bootcamp)
   - Talk by Rafal Kowalewski (MPI BioChem) on DNA-PAINT and [Picasso](https://github.com/jungmannlab/picasso)
@@ -90,6 +89,8 @@ Get the latest updates and say hi in our:
   - Talk by Gerasimos Chourdakis: [Continuous Integration with GitHub Actions in preCICE](http://go.tum.de/389945)
 - 2019-03-11: First attempt for a regular meeting / Stammtisch at a restaurant (continued for 1-2 more evenings)
 - 2019-02-26: First [Blog post](https://www.de-rse.org/blog/2019/02/26/neue-rse-gruppen-in-m%C3%BCnchen-und-m%C3%BCnster.html) about our group, following a meeting at LRZ
+
+[Statistics](https://pad.gwdg.de/s/R9qT0dF2V5)
 
 ## Contact
 
