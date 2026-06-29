@@ -18,14 +18,6 @@ Our meetings are currently organized mainly by members of the **Working Group on
 
 *The meetings will take place online. We aim to convene on a quarterly basis, and additional meetings can be arranged upon request. If you would like to join, please [contact us](#get-in-touch) for access details or subscribe to our [mailing list](https://www.listserv.dfn.de/sympa/info/fdm-sh-rse).*
 
-### Next Meeting
-
-- **03 March 2026**, 10:00–11:00 CET
-
-### Past Meetings
-
-\-
-
 ## FDM.SH
 
 **FDM.SH** is the state initiative for research data management in Schleswig-Holstein. It promotes collaborative solutions, supports coordination across institutions, and helps build shared structures for managing research data. Through joint efforts, expertise is pooled and made accessible to strengthen modern, FAIR-aligned research data practices throughout the state.
