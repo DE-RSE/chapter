@@ -16,17 +16,16 @@ Our meetings include short talks about anything related to RSE (research data ma
 
 ## News
 
-Next event: **Thursday, July 30**, 18:00 – 19:30, at the LMU University Library - ([Register here](https://pad.okfn.de/p/rse-muc-meetup4-26)):
+Next event: **Thursday, October 1**, 18:00 – 19:30, at the LMU University Library - ([Register here](https://pad.okfn.de/p/rse-muc-meetup5-26)):
 
 - Introductions and general announcements
-- Talk: UI design for LLMs (Maximilian Frank, LMU)
-- Update on [data recue operations](https://en.wikipedia.org/wiki/Data_rescue) (Raphael Ritz, MPCDF)
+- Talk: TBA
+- Talk: TBA
 
 Afterwards: Stammtisch-style discussion at [Café Puck](https://cafe-puck.de/).
 
-Save the date also for the next sessions in 2026:
+Save the date also for the last session in 2026:
 
-- Thursday, September 24, 18:00 - 19:30 (conflict: [de-RSE Collaboration Workshop](https://events.hifis.net/event/3249/overview) - might change)
 - Thursday, November 26, 18:00 - 19:30
 
 By default at the LMU University Library, unless announced otherwise. Speak up if you are interested in hosting!
@@ -40,6 +39,9 @@ Get the latest updates and say hi in our:
 
 ## Past activity
 
+- 2026-07-30: Fourth meeting in 2026, at the LMU University Library - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup4-26)
+   - Talk: UI design for LLMs (Maximilian Frank, LMU)
+   - Update on [data recue operations](https://en.wikipedia.org/wiki/Data_rescue) (Raphael Ritz, MPCDF)
 - 2026-05-06: Third meeting in 2026, at the LMU University Library - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup3-26)
    - Talk: de-RSE, FutuRSI & open thoughts from the German RSE landscape (Florian Mannseicher, de-RSE e.V.)
    - Conversation with Daniel Katz (University of Illinois Urbana-Champaign & Research Software Alliance (ReSA)) on RSE communities
