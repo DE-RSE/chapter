@@ -19,8 +19,8 @@ Our meetings include short talks about anything related to RSE (research data ma
 Next event: **Thursday, October 1**, 18:00 – 19:30, at the LMU University Library - ([Register here](https://pad.okfn.de/p/rse-muc-meetup5-26)):
 
 - Introductions and general announcements
-- Talk: TBA
-- Talk: TBA
+- Talk: ComIn, the ICON Community Interface (Kerstin Hartung, DLR)
+- Talk: Experiences of vibe-coding an [R-port of a Python package](https://github.com/dlce-eva/rcsvw) (Robert Forkel, MPI EVA)
 
 Afterwards: Stammtisch-style discussion at [Café Puck](https://cafe-puck.de/).
 
