@@ -16,17 +16,14 @@ Our meetings include short talks about anything related to RSE (research data ma
 
 ## News
 
-Next event: **Thursday, October 1**, 18:00 – 19:30, at the LMU University Library - ([Register here](https://pad.okfn.de/p/rse-muc-meetup5-26)):
+Next event: **Thursday, November 26**, 18:00 – 19:30, at the LMU University Library - ([Register here](https://pad.okfn.de/p/rse-muc-meetup6-26)):
 
 - Introductions and general announcements
-- Talk: ComIn, the ICON Community Interface (Kerstin Hartung, DLR)
-- Talk: Experiences of vibe-coding an [R-port of a Python package](https://github.com/dlce-eva/rcsvw) (Robert Forkel, MPI EVA)
+- Talk: [Gramps Web](https://www.grampsweb.org/)  (David Straub, Hochschule München)
+- Talk: The [EBRAINS Research Infrastructure](https://ebrains.eu/) (Reema Gupta, LMU)
+- Closing remarks and planning next meetings: We are looking for speakers!
 
-Afterwards: Stammtisch-style discussion at [Café Puck](https://cafe-puck.de/).
-
-Save the date also for the last session in 2026:
-
-- Thursday, November 26, 18:00 - 19:30
+Afterwards: Visit to a nearby Christmas market.
 
 By default at the LMU University Library, unless announced otherwise. Speak up if you are interested in hosting!
 
@@ -39,6 +36,9 @@ Get the latest updates and say hi in our:
 
 ## Past activity
 
+- 2026-10-01: Fifth meeting in 2026, at the LMU University Library - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup5-26)
+   - Talk: ComIn, the ICON Community Interface (Kerstin Hartung, DLR)
+   - Talk: Experiences of vibe-coding an [R-port of a Python package](https://github.com/dlce-eva/rcsvw) (Robert Forkel, MPI EVA)
 - 2026-07-30: Fourth meeting in 2026, at the LMU University Library - [Meeting notes](https://pad.okfn.de/p/rse-muc-meetup4-26)
    - Talk: UI design for LLMs (Maximilian Frank, LMU)
    - Update on [data recue operations](https://en.wikipedia.org/wiki/Data_rescue) (Raphael Ritz, MPCDF)
